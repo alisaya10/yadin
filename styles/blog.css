@@ -1,0 +1,116 @@
+.blog-hero {
+    width: 100%;
+    min-height: 50vh;
+}
+
+.blog-inputbox {
+    border: none;
+    font-size: 15px;
+    width: 70%;
+    min-width: 300px;
+    max-width: 470px;
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+}
+
+.blog-input {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    outline: none;
+    padding: 10px 15px;
+}
+
+.input-searchicon {
+    width: 20px;
+}
+
+.input-search-button {
+    background-color: rgb(248, 250, 252);
+    border-radius: 8px 8px 8px 0px;
+    border: none;
+    border-left: 1px solid rgb(240, 240, 240);
+    padding: 0px 13px;
+    transition: all 0.3s;
+}
+
+.input-search-button:hover {
+    background-color: rgb(240, 240, 240);
+}
+
+.blogsbox {
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.03);
+    /* padding: 30px 30px; */
+    border-radius: 15px;
+    transition: all 0.2s;
+    outline: none;
+    padding-bottom: 10px;
+}
+
+.blogsbox-img {
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.blogsbox-p2 {
+    font-size: 18px;
+    /* color: rgb(60, 68, 80); */
+    color: #000510;
+    font-weight: 600;
+    /* text-transform: uppercase; */
+    transition: all 0.2s;
+}
+
+.blogsbox-p3 {
+    color: rgba(60, 68, 80, 1);
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 3px;
+    text-align: center;
+}
+
+.blogsbox-button {
+    background-color: rgb(255, 255, 255);
+    /* border: 1px solid rgb(118,117,213);
+color:rgb(118,117,213) ; */
+    /* border: 1px solid rgba(65,20,120,1); */
+    /* color: rgba(65,20,120,1); */
+    border: 1px solid rgba(64, 117, 190, 1);
+    color: rgba(64, 117, 190, 1);
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 13px;
+    margin-top: 12px;
+    padding: 7px 30px;
+    transition: all 0.5s;
+}
+
+.blogsbox-button:hover {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(64, 117, 190, 1);
+}
+
+.blog-hero-header {
+    color: rgba(255, 255, 255, 1);
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.blog-hero-p {
+    /* max-width: 500; */
+    color: rgba(248, 252, 252, 0.7);
+    font-size: 14px;
+    text-align: center;
+}
+
+.blog-hero-pbox {
+    max-width: 500px;
+    padding: 20px 0px;
+}

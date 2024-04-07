@@ -1,0 +1,298 @@
+.content-row-wrap-edit {
+    flex-wrap: wrap;
+    /* position:relative; */
+}
+
+.content-side-wrap {
+    width: 100%;
+    background-color: #fff;
+}
+
+.for-list-any {
+    /* position: sticky !important;
+    top: 80px;
+    left:0;
+    z-index:999; */
+}
+
+.new-sidebar {
+    border-right: 1px solid #eee;
+    height: calc(100vh - 50px) !important;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    overflow: auto;
+    /* overflow-x: hidden; */
+    /* width: 360px !important; */
+}
+
+.main-list-item-any {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0px 20px 0px 20px;
+}
+
+.box-for-list-item-any {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+}
+
+.list-item-any {
+    color: #222222;
+    padding-left: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin: 8px 0;
+}
+
+.list-item-any:nth-child(1) {
+    margin-bottom: 10px;
+}
+
+.angel-item {
+    color: rgba(0, 0, 0, .29);
+    font-size: .73rem;
+    cursor: pointer;
+}
+
+.inner-list-item {
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* .inner-list-item-hide-test {
+    display: none;
+} */
+
+.inner-item-any {
+    color: rgba(0, 0, 0, 0.8);
+    padding-left: 15px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all ease .35s;
+    margin: 4px 0;
+    font-weight: 400;
+}
+
+.inner-item-any:hover {
+    color: #000;
+}
+
+.top-item-list {
+    color: #000;
+    font-size: 14px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+.line {
+    height: 1px;
+    background-color: rgba(0, 0, 0, .08);
+    width: 50%;
+    margin: 15px 0;
+}
+
+.test-mobile-device {
+    margin: 0 auto;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+
+/* =======-------roght side css=======------ */
+
+.right-side-box {
+    /* height: 100%; */
+    /* height: calc(100vh - 123.72px); */
+    overflow-y: scroll;
+    position: relative;
+    z-index: 1;
+}
+
+.title-and-route-line {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    width: 100%;
+    padding: 40px 5%;
+    /* margin: 35px 0 0 40px; */
+    box-sizing: border-box;
+    /* overflow-x: scroll; */
+}
+
+.items-rout-name {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.edit-route-small-logo {
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+    margin-right: 5px;
+}
+
+.check {
+    color: #000;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.check-route {
+    color: rgba(0, 0, 0, 0.54);
+    font-size: 14px;
+    text-transform: capitalize;
+    transition: all ease .3s;
+    cursor: pointer;
+}
+
+.check-route:hover {
+    color: #000;
+}
+
+.head-title-content-side {
+    /* margin-top: 25px; */
+}
+
+.head-title-content-side-txt h3 {
+    font-weight: bold;
+    text-transform: capitalize;
+    color: #000;
+}
+
+.head-title-content-side-txt p {
+    color: rgba(0, 0, 0, 0.54);
+}
+
+.title-card-content h4 {
+    color: #000;
+    margin-top: 20px;
+    text-transform: capitalize;
+}
+
+.card-items-content {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.card-item-content {
+    color: #000;
+    /* margin-right: 5px; */
+    cursor: pointer;
+}
+
+.inner-card-content {
+    border: solid 1px #eee;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 15px;
+    width: 97%;
+    margin-right: 10px;
+    transition: all ease .4s;
+}
+
+.inner-title {
+    margin-bottom: 6px;
+    color: rgb(51, 90, 177);
+}
+
+.inner-title-txt {
+    color: rgba(0, 0, 0, 0.62);
+}
+
+.inner-card-content:hover {
+    box-shadow: 0 0 0 1px rgba(50, 50, 93, 0.01), 0 7px 14px 0 rgba(50, 50, 93, 0.1), 0 3px 6px 0 rgba(0, 0, 0, 0.02);
+    ;
+}
+
+
+/*  */
+
+.for-margin {
+    margin-top: 60px;
+}
+
+.item-for-github {
+    width: 100%;
+}
+
+.txt-for-github {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 20px 0;
+    cursor: pointer;
+    /* width: 30%; */
+}
+
+.github-txt {
+    color: #5468D4;
+}
+
+.for-github-icon {
+    color: #5468D4;
+    padding-left: 8px;
+    font-size: .9rem;
+}
+
+.for-hover-github {
+    transition: all ease .4s;
+}
+
+.for-hover-github:hover * {
+    transition: all ease .4s;
+    color: #000;
+    ;
+}
+
+.edit-in-mobile-dev {
+    text-transform: capitalize;
+    background-color: #c0003a;
+    color: #fff;
+    border-radius: 30px;
+    padding: 12px 16px;
+    display: flex;
+    justify-content: center;
+}
+
+
+/* .edit-threeline {
+    color: #fff;
+    position: relative;
+    left: 25px;
+} */
+
+@media screen and (max-width:992px) {
+    .txt-for-github {
+        display: flex;
+        justify-content: center;
+    }
+    .box-for-list-item-any {
+        padding-left: 30px;
+    }
+    .inner-list-item {
+        /* display: flex;
+        flex-direction: column;
+        align-items: center; */
+        padding-left: 35px;
+    }
+    .show-in-mobile-device {
+        width: 60%;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        cursor: pointer;
+        margin: 10px 0 10px 27px;
+        /* margin-left: 27px; */
+    }
+}

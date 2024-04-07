@@ -1,0 +1,23 @@
+errors
+{
+invalidInputs
+emailNotValid
+nameNotValid
+familyNotValid
+feildIsRequired
+userOrPasswordWrong
+somethingWentWrong
+profileNotUpdated
+cantConnectToServer
+checkYourInternetConnection
+userDoesNotExists
+wrongCredentials
+passwordPattern
+}
+
+
+
+info{
+    profileUpdated
+    profileUpdatedSuccessfully
+}

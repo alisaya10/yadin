@@ -1,0 +1,58 @@
+.controler-hero-bg{
+    background-image: linear-gradient(to top,#fdc14e,rgb(238, 145, 63));
+    margin: 2px;
+    border-radius: 15px;
+    /* padding-top: 30px; */
+}
+.controler-img1{
+    width: 35px ;
+    filter: invert(100%);
+}
+.controler-p1{
+    color: #fffeef;
+}
+
+.control-slider .slick-dots{
+    position: relative !important;
+    display: flex !important;
+    justify-content: center !important;
+    margin-top: 10px;
+}
+.control-slider .slick-dots li{
+    width:20px !important
+}
+
+.control-slider .slick-dots li.slick-active button:before{
+    color: #fff !important;
+}
+.control-slider .slick-prev:before, .slick-next:before{
+    color: #fff !important;
+}
+/* .control-triangel{
+    width: 0;
+	height: 0;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	border-bottom: 10px solid transparent;
+}   
+.control-triangel:hover{
+    border-bottom: 10px solid #fff;
+
+} */
+.control-tab{
+    border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+    border-bottom: 10px solid #fff;
+    border-bottom-color: #ffffff00;
+    transition: all 0.3s;
+}
+
+.control-tab:hover{
+
+    border-bottom-color: #ffffff50;
+}
+
+.control-tab.active{
+
+    border-bottom-color: #ffffff;
+}

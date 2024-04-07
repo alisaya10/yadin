@@ -1,0 +1,214 @@
+.rotate-180 {
+    transform: rotate(-180deg);
+}
+
+.Continue-bttn {
+    padding: 15px 25px;
+    border-radius: 8px;
+    background: linear-gradient(to left, #007aff, #00B2FF);
+    /* background-color: rgb(77,116,185); */
+    /* border: 1px solid #3399FE; */
+    font-size: 15px;
+    color: #fff;
+    margin-top: 10px;
+    transition: 0.3s all;
+    font-weight: 600;
+    width: 100%;
+}
+
+.quantity-box-cart-no-border {
+    border: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 4px;
+    padding: 8px 10px;
+}
+
+.quantity-box-cart {
+    border: solid 1px #3399FE;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 4px;
+    padding: 8px 10px;
+}
+
+.quantity-box-cart-shipping-page {
+    border: solid 1px #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 4px;
+    padding: 4px 16px;
+    width: 100%;
+}
+
+
+/* table css */
+
+
+/* .under-sub-section-table td{
+    text-align: start !important;
+  } */
+
+.title-for-head {
+    padding-bottom: 6px;
+}
+
+.main-table {
+    /* width: 100%; */
+}
+
+.main-table th {
+    text-align: start;
+    color: #999;
+    /* padding: 16px 0; */
+    font-size: 14px;
+    font-weight: 400;
+    border-bottom: 1px solid #ddd;
+}
+
+.body-table td {
+    /* text-align: center; */
+    padding: 10px 0;
+    color: #222222;
+}
+
+@media screen and (max-width:992px) {
+    .for-handle-table {
+        width: 100%;
+    }
+    .main-table th {
+        font-size: 16px;
+        white-space: nowrap;
+    }
+}
+
+.radio-check-box {
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: solid 2px #007aff;
+}
+
+.radio-check-box-true {
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: solid 2px #007aff;
+    background-color: #007aff;
+}
+
+.login-modal {
+    /* background-color: #fff; */
+    position: relative;
+    border-radius: 8px;
+}
+
+.login-modal::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.37);
+    top: 0;
+    left: 0;
+    z-index: 1;
+    border-radius: 8px;
+}
+
+.Continue-bttn-login {
+    padding: 12px 20px;
+    border-radius: 8px;
+    background-color: #fff;
+    /* background-color: rgb(77,116,185); */
+    /* border: 1px solid #3399FE; */
+    border: transparent;
+    font-size: 15px;
+    color: #3399FE;
+    margin-top: 10px;
+    transition: 0.3s all;
+    font-weight: 600;
+    width: 100%;
+}
+
+.Continue-bttn-login:hover {
+    transition: all ease-in-out .3s;
+    color: #fff;
+    background-color: #3399FE;
+    border: transparent;
+}
+
+.for-hover-delet-product {
+    color: #222222;
+    opacity: 0.3;
+    transition: all ease-in-out .2s;
+}
+
+.for-hover-delet-product:hover {
+    opacity: 1;
+    transition: all ease-in-out .3s;
+}
+
+
+/* ----------form css ------*/
+
+.form-additional input,
+textarea,
+select,
+.bx-shd {
+    border: 0;
+    outline: 0;
+    padding: 6px 0px;
+    border-radius: 8px;
+    display: block;
+    width: 100%;
+    margin-top: 0em;
+    box-shadow: 0 1px 1px rgba(black, 0.1);
+    resize: none;
+}
+
+#input-message-text-area {
+    height: 160px;
+}
+
+.tst-option {
+    /* -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-image: url(../public/images/nexts.png); 
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: center;
+  background-size: 10px; */
+}
+
+.coupon-input-edit {
+    border: solid 1px #3399FE;
+    outline: 0;
+    padding: 1em;
+    border-radius: 8px;
+    display: block;
+    width: 40%;
+    margin-top: 1em;
+    /* box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px ; */
+    resize: none;
+}
+
+.coupon-btn {
+    border: 1px solid #3399FE;
+    padding: 12px 14px;
+    border-radius: 8px;
+    color: #3399FE;
+    transition: all ease-in-out .3s;
+}
+
+.coupon-btn:hover {
+    /* border: 1px solid #fff ; */
+    background-color: #3399FE;
+    color: #fff;
+    transition: all ease-in-out .3s;
+}

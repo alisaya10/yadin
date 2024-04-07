@@ -1,0 +1,230 @@
+.update-main {
+    background-color: #fff;
+    border-radius: .9rem;
+    margin-bottom: 30px;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+}
+
+.academy-category-more a {
+    border-radius: 20px;
+    transition: all 0.5s;
+    padding: 8px 20px;
+    background-color: rgba(123, 0, 247, 0.1);
+
+}
+
+.academy-category-more a:hover {
+    background-color: rgba(123, 0, 247, 0.21);
+}
+
+.update-text-title {
+    margin-top: 40px;
+    margin-bottom: 31px;
+    text-align: center;
+}
+
+.framework-update {
+    margin: 30px 30px 20px 30px;
+}
+
+.framework-update-inner {
+    /* background-color: rgb(236,68,79); */
+    background-color: #7B00F7;
+    /* width: 22%; */
+    text-align: center;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    padding: 6px 12px;
+}
+
+.text-framework {
+    color: #fff;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.text-framework:hover {
+    color: #fff;
+}
+
+.update-text {
+    margin-bottom: 20px;
+}
+
+.update-title {
+    font-weight: 400;
+}
+
+.update-title-text {
+    width: 90%;
+    color: #789;
+    font-weight: 300;
+    font-size: 14px
+}
+
+.small-item-main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* margin-left: 30px; */
+    width: 70%;
+}
+
+.first-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.extera-item {
+    margin-left: 0px;
+}
+
+.small-text-item {
+    font-size: .7rem;
+    margin: 0 0 0 3px;
+}
+
+.fa-clock,
+.fa-book-open,
+.fa-stream, .fa-video {
+    font-size: 1.1rem;
+    color: #000;
+    opacity: .5;
+}
+
+.small-link-txt {
+    text-decoration: none;
+    color: #000;
+    opacity: .5;
+}
+
+.fas {
+    margin-right: 5px;
+}
+
+.small-link-txt:hover {
+    color: #000;
+}
+
+#txt {
+    font-size: .7rem;
+    color: #000;
+    opacity: .5;
+    margin: 0 0 0 3px;
+}
+
+.update-btn {
+    margin: 20px 0;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: flex-start; */
+    align-items: center;
+}
+
+.update-btn-inner {
+    background-color: rgb(237, 237, 237);
+    /* width: 35%; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    padding: 10px 20px;
+    /* margin-left: 30px; */
+    cursor: pointer;
+}
+
+.start-btn {
+    outline: none;
+    border: none;
+    font-size: .8rem;
+}
+
+.update-btn-inner:hover * {
+    transition: all ease-in-out .3s;
+    color: #7B00F7;
+    -webkit-box-shadow: 0px 0px 30px rgba(40, 0, 0, 0.07);
+    box-shadow: 0px 0px 30px rgba(40, 0, 0, 0.07);
+}
+
+.update-btn-inner:hover .start-btn {
+    color: #7B00F7;
+    transition: all ease-in-out .3s;
+}
+
+.for-img-aside-recent {
+    width: 100%;
+    height: 100%;
+    /* min-height: auto; */
+}
+
+.edit-recent-img {
+    width: 100%;
+    height: 100%;
+    border-radius: .9rem;
+    object-fit: cover;
+}
+
+@media screen and (max-width:992px) {
+    .update-main {
+        display: flex;
+        /* flex-direction: column; */
+    }
+    .update-text-title {
+        text-align: center;
+    }
+    .framework-update-inner {
+        /* width: 30%; */
+        text-align: center;
+    }
+    .update-btn {
+        text-align: center;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .update-btn-inner {
+        /* width: 30%; */
+        margin: 0;
+    }
+    .framework-update {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .update-text {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .update-title-text {
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+    .small-item-main {
+        width: 100%;
+        margin: 0;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .update-main {
+        display: flex;
+        /* flex-direction: column; */
+    }
+}

@@ -1,0 +1,228 @@
+.s {
+    background-image: linear-gradient(to right top, #2a3d52, #2a3e54, #2b3e57, #2c3f59, #2d3f5b);
+    /* background-color: transparent; */
+    height:12%;
+}
+.wrapper_header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.item_header {
+ width: 30%;
+ margin: 10px 0;
+}
+
+.for_logo {
+    width: 15%;
+    height: 10%;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.section_header {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.section_header li {
+    color: #ffffff80;
+    font-size: .8rem;
+    font-weight: 400;
+
+}
+.section_header li:hover {
+    color: #fff;
+    transition: all ease-in-out .3s;
+}
+
+.sign_in {
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    width: 70%;
+    
+}
+.search_box {
+    display: flex;
+    justify-content: flex-end;
+    width: 33%;
+}
+.search_aws{
+    background-color: #4A5E82;
+    color: #fff;
+    border-radius: 30%;
+    padding: 10px 10px;
+    margin-right: 20px;
+    /* margin-top: -10px; */
+}
+.search_aws:hover{
+    background-color: #667ea8;
+}
+.btns {
+    background-color: transparent;
+    border: solid 1px #fff;
+    text-transform: uppercase;
+    border-radius: 20px;
+    outline: none;
+    color: #fff;
+    font-size: .8rem;
+    padding: 8px 12px;
+}
+.btns:hover {
+    color: rgb(119, 213, 245);
+    background-color:#fff;
+    transition: all ease-in-out .3s;
+}
+#sign {
+    color: #fff;
+    /* padding-left: 5px;    */
+    text-transform: uppercase;
+    font-size: .8rem;
+}
+.search_aws {
+    margin-right: 10px;
+}
+
+.links_item {
+    text-decoration: none;
+    color: #ffffff80 !important;
+    font-size: .8rem;
+    font-weight: 400;
+}
+
+.links_item:hover {
+    color: #fff !important;
+    transition: all ease-in-out .3s;
+}
+.menu_icon {
+    display: none;
+}
+@media screen and (max-width:1320px) {
+    .sign_in {
+        width: 80%;
+    }
+    .btns {
+        padding: 4px 8px;
+        font-size: .7rem;
+    }
+    #sign {
+        font-size: .7rem;
+    }
+    .search_box {
+        width: 35%;
+    }
+    /* .edit-on-tablet {
+        width: 20%;
+    } */
+ /* .btns {
+        padding: 4px 8px;
+    } */
+    /* .btns {
+        font-size: .6rem;
+    }
+    #sign {
+
+        font-size: .6rem;
+    }
+    .search_box {
+        display: flex;
+        justify-content: flex-end;
+        width: 41%;
+    }
+    .links_item {
+        font-size: .65rem;
+    } */
+}
+
+@media screen and (max-width:992px) {
+   
+    .section_header {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+        height: 100vh;
+        position: absolute;
+        z-index: -1;
+        top:0;
+        left: 0;
+        opacity: 1;
+        transition: all 0.3s ease;
+      }
+      .section_header li {
+          font-size: 18px;
+          padding: 30px 0;
+      }
+      .section_header a {
+          font-size: 18px;
+          padding: 30px 0;
+      }
+    
+      .section_header.active {
+        background: #242222;
+        left: 0;
+        top: 0;
+        height: 100vh;
+        opacity: 1;
+        transition: all .5s ease-in-out;
+        z-index: 10;
+      } 
+    /* .wrapper_header {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    } */
+    .for_logo {
+        position: relative;
+        margin-left: 0 !important;
+        width: 100px;
+        height:100px;
+        left: 20px;
+        z-index: 11;
+    }
+    .item_header {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        width: 100%;
+    }
+    .section_header {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .section_header li {
+        margin: 10px 0;
+    }
+    .sign_in {
+        margin:10px 0;
+
+    }
+   
+    .search_aws , #sign {
+        display: none !important;
+    }
+    .btns {
+        display: none;
+    }
+    .menu_icon {
+        display: block;
+        position: absolute;
+        top: 12px;
+        right: 0;
+        transform: translate(-100%, 60%);
+        font-size: 1.4rem;
+        cursor: pointer;
+        color: #fff;
+        z-index: 11;
+      }
+}

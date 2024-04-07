@@ -1,0 +1,128 @@
+.section-div {
+    /* max-width: 998px; */
+    width: 100%;
+    background-color: #f5f5f5;
+    border-radius: .9rem;
+    margin: 10px 0;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-section {
+    /* padding:20px 15px; */
+    padding: 5px 20px;
+}
+
+#sec {
+    font-size: 1.3rem;
+}
+
+#vertical-line {
+    color: rgb(175, 175, 175);
+}
+
+#second {
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+}
+
+.fa-chevron-up,
+.fa-chevron-down {
+    background-color: rgb(226, 226, 226);
+    padding: 8px 10px;
+    border-radius: 6px;
+}
+
+.card-section-main {
+    /* max-width: 998px; */
+    background-color: #FCFCFC;
+    border-radius: 18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 20px 15px 35px 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.current-section-content {
+    /* height:0; */
+    overflow: hidden;
+    transition: all ease .6s;
+}
+
+.hids {
+    height: 0;
+}
+
+.check-box {
+    position: absolute;
+    opacity: 0;
+}
+
+.check-item {
+    font-size: 1.3rem;
+    padding-left: 8px;
+    padding-top: 6px;
+}
+
+.div-number-circ:hover .div-for-number {
+    opacity: 0;
+}
+
+.div-number-circ:hover .check-box {
+    opacity: 1;
+}
+
+.card-discription-item {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    width: 90%;
+}
+
+.div-number-circ {
+    width: 65px;
+    height: 65px;
+    background-color: #f5f5f5;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.card-discription-item p {
+    font-size: .8rem;
+}
+
+.for-episode-and-clock {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width: 48%;
+    /* font-size: .7rem;
+    color: #000;
+    opacity: .6; */
+}
+
+.section-clock {
+    font-size: 16px;
+}
+
+.minutes {
+    /* margin-left: 10px; */
+}
+
+@media screen and (max-width:768px) {
+    #second {
+        font-size: 1.3rem;
+    }
+}

@@ -1,0 +1,196 @@
+/* .edit-sm-card {
+    width: 90%;
+} */
+
+.small-card-action {
+    margin-top: 40px !important;
+    border-radius: .9rem;
+    transition: all ease-in-out .2s;
+    background-color: #fff;
+    border: 1px solid #eee;
+}
+
+.small-card-action:hover {
+    transition: all ease-in-out .2s;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+}
+
+.small-card-inner-action {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.edit-small-card-img {
+    /* width: 120px;
+    height: 120px; */
+    /* max-width: 300px; */
+    width: 300px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 13px 13px 0px 0px;
+    /* height: 180px; */
+    /* border-radius: 50%; */
+}
+
+.with-color {
+    /* background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(171,102,255,1) 0%, rgba(116,182,247,1) 90% ); */
+    background-image: linear-gradient(to right top, #7b00f7, #8901f4, #9505f1, #9f0bee, #a912eb);
+    border-radius: .7rem;
+    width: 100%;
+    /* position: relative; */
+    top: 15px;
+    /* z-index: 1; */
+}
+
+.with-blue-color {
+    /* background-image: radial-gradient( circle 976px at 51.2% 51%, rgba(11, 27, 103, 1) 0%, rgba(16, 66, 157, 1) 0%, rgba(11, 27, 103, 1) 17.3%, rgba(11, 27, 103, 1) 58.8%, rgba(11, 27, 103, 1) 71.4%, rgba(16, 66, 157, 1) 100.2%, rgba(187, 187, 187, 1) 100.2%); */
+    background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(171, 102, 255, 1) 0%, rgba(116, 182, 247, 1) 90%);
+    /* background-image: radial-gradient( circle 941px at 2.6% 6.8%,  rgba(124,74,228,0.81) 15.9%, rgba(249,208,40,0.70) 88.6% ); */
+    border-radius: .9rem;
+    width: 90%;
+    position: relative;
+    top: 15px;
+    z-index: 1;
+}
+
+.box-for-items-small-card {
+    /* padding: 25px 20px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.for-btn-framework {
+    margin: 10px 0;
+}
+
+.txt-btn-frmwork {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 400;
+    padding: 6px 16px;
+    background-color: #000;
+    /* background-color: rgba(0, 0, 0, 0.1); */
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.head-txt-small-card-title {
+    margin-top: 10px;
+}
+
+.txt-difficulty {
+    text-align: center;
+    margin: 5px 0;
+}
+
+.txt-difficulty p {
+    font-size: 13px;
+    color: #fff;
+    font-weight: 600;
+    margin: 0;
+    line-height: 10px;
+}
+
+.difficulty-degree {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.degree-item {
+    width: 1rem;
+    height: .3rem;
+    border-radius: .2rem;
+    background-color: #fff;
+}
+
+.diffrence {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.small-card-inner-main-action {
+    /* padding: 30px 20px; */
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /* height: 100%; */
+    /* position: relative;
+    top: 0; */
+    /* background-color: #fff; */
+    /* border-radius: .9rem; */
+}
+
+.title-txt-h {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.txt-parag {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.tiny-icon-small-card {
+    font-size: 14px;
+    font-weight: 300;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+    transition: opacity .3s;
+    transition-timing-function: ease-in-out;
+}
+
+.tiny {
+    color: #000;
+    opacity: .4;
+}
+
+.play-up {
+    bottom: 0;
+    left: 0;
+    margin-left: 10%;
+    margin-right: 10%;
+    opacity: 0;
+    position: absolute;
+    transform: translateY(10px);
+    transition: opacity .2s, transform .3s, color .3s, background-color .3s;
+    transition-timing-function: ease-in-out;
+    width: 80%;
+    background-color: #f5f5f5;
+    outline: none;
+    border: none;
+    border-radius: .9rem;
+    color: #000;
+    font-size: .8rem;
+    padding: 8px 0;
+}
+
+.play-up:hover * {
+    color: #7B00F7;
+}
+
+.small-card-action:hover .play-up {
+    opacity: 1;
+    transform: translateY(-10px);
+}
+
+.small-card-action:hover .tiny-icon-small-card {
+    opacity: 0;
+}
+
+.play-up a {
+    color: #000;
+    padding-left: 8px;
+}

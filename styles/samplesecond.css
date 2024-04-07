@@ -1,0 +1,77 @@
+/* -----------Mega Menu-------- */
+
+.edit-label-img-second {
+    width: 22px;
+    height: 22px;
+    object-fit: cover;
+    opacity: .5;
+    transition: all ease-in-out .4s;
+    cursor: pointer;
+}
+
+.label-mega-menu-second {
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: nowrap; */
+    /* align-items: flex-start; */
+    margin: 20px 0;
+    width: 100%;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.list-txt-mega-menu-second {
+    display: flex;
+    flex-direction: column;
+    /* padding-left:10px; */
+    transition: all ease-in-out .4s;
+}
+
+.label-mega-menu-second:hover .list-txt-mega-menu-second,
+.label-mega-menu-second:hover .edit-label-img-second {
+    transition: all ease-in-out .4s;
+    opacity: 1;
+}
+
+.hide {
+    transition: all .3s ease-in-out;
+    opacity: 0;
+    visibility: hidden;
+}
+
+
+/* .content-mega-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 20px 30px;
+} */
+
+.mega-links-second {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.mega-link-items {
+    font-size: 14px;
+    padding: 0 !important;
+    margin: 0;
+    font-weight: 500;
+}
+
+.mega-link-items-und {
+    font-size: 12px;
+    opacity: .6;
+}
+
+.mega-link-items-second {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.mega-link-items-second-under {
+    font-size: 12px;
+    opacity: .6;
+}

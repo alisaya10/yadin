@@ -1,0 +1,111 @@
+.description-box-main {
+    /* max-width: 998px; */
+    background-color: #FCFCFC;
+    border-radius: 18px;
+    /* margin-top: 30px; */
+    padding: 25px 5px 10px 5px;
+}
+
+.box-visit-name {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.description-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    flex: 1;
+}
+
+.edit {
+    justify-content: flex-start;
+}
+
+.description-item h3 {
+    font-size: 1.5rem;
+}
+
+.teacher-name-edit {
+    color: rgb(97, 97, 97);
+    font-weight: 200;
+}
+
+.git-insta {
+    margin: 0 15px;
+    opacity: .7;
+    cursor: pointer;
+}
+
+.git-insta:hover {
+    transition: all ease-in-out .3s;
+    color: rgb(24, 122, 233);
+    opacity: 1;
+}
+
+.website-btn {
+    border: solid 1px #000;
+    border-radius: 18px;
+    padding: 5px 15px;
+    outline: none;
+    background-color: transparent;
+    font-size: .74rem;
+    text-transform: uppercase;
+    opacity: .7;
+}
+
+.website-btn:hover {
+    transition: all ease-in-out .3s;
+    border-color: rgb(24, 122, 233);
+    color: rgb(24, 122, 233);
+    opacity: 1;
+}
+
+.description-teacher {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 25px;
+}
+
+.description-txt {
+    padding-left: 20px;
+}
+
+.description-txt {
+    color: #000;
+    opacity: .7;
+    font-weight: 200;
+}
+
+.img-box {
+    width: 15%;
+}
+
+.face-edit {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+@media screen and (max-width:768px) {
+    .rmv {
+        display: none;
+    }
+    .description-txt {
+        padding: 0;
+        font-size: .8rem;
+        margin-left: 10px;
+    }
+    .description-txt p {
+        margin-bottom: 0;
+    }
+    .face-edit {
+        width: 70px;
+        height: 70px;
+    }
+}

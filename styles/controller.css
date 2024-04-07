@@ -1,0 +1,150 @@
+.controller-button1 {
+    border-radius: 100px;
+    border: none;
+    padding: 40px;
+    background-color: rgb(119, 136, 153);
+    box-shadow: 0 4px 6px rgb(50 50 93 / 11%), 0 2px 8px rgb(0 0 0 / 8%);
+    position: relative;
+    overflow: hidden;
+    transition: 0.4s all;
+}
+
+.controller-button1:hover {
+    background-color: rgb(109, 136, 143);
+}
+
+
+/* .controller-button1:hover{
+    background-color: rgb(229, 33, 33);
+} */
+
+.controller-button1-img {
+    width: 70px;
+    filter: invert(100%);
+}
+
+.controller-circle {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: -8px;
+    left: -8px;
+    border-radius: 1000px;
+    background-image: linear-gradient(to top left, #ffffff10, #ffffff40);
+}
+
+.controller-circle1 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 8px;
+    left: 8px;
+    border-radius: 1000px;
+    background-image: linear-gradient(to top left, #ffffff20, #ffffff05);
+}
+
+.controller-button1.active {
+    background-color: #007aff !important;
+}
+
+.controller-p1 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.controller-p2 {
+    font-size: 15px;
+    font-weight: 300;
+    color: rgba(0, 0, 0, 0.7);
+    max-width: 240px;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 45px;
+    height: 25px;
+    /* width: 100px; */
+    /* height: 48px; */
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 21px;
+    width: 21px;
+    left: 2px;
+    bottom: 2px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked+.slider {
+    background-color: #2196F3;
+}
+
+input:focus+.slider {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked+.slider:before {
+    -webkit-transform: translateX(20px);
+    -ms-transform: translateX(20px);
+    transform: translateX(20px);
+}
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+
+/* Rounded sliders */
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+.controllerform-box {
+    max-width: 600px;
+    background-color: rgb(247, 249, 252);
+    border-radius: 10px;
+}
+
+.controllerform-button {
+    border: none;
+    border-radius: 40px;
+    padding: 10px 20px;
+    background-color: rgb(106, 143, 222);
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 600;
+    transition: all 0.3s;
+}

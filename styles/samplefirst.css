@@ -1,0 +1,55 @@
+/* -----------Mega Menu-------- */
+
+.edit-label-img-size {
+    width: 40px;
+    /* height: 42px; */
+    object-fit: contain;
+}
+
+.label-mega-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    height: 100%;
+    margin: 15px 0;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.list-txt-mega-menu {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+.hide {
+    transition: all .3s ease-in-out;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.mega-links {
+    margin: 30px 0;
+    overflow: hidden;
+}
+
+.mega-link-items {
+    font-size: 14px;
+    padding: 0 !important;
+    margin: 0;
+    text-transform: capitalize;
+}
+
+.mega-links li {
+    padding: 20px 5px;
+}
+
+.mega-links li a {
+    color: #000 !important;
+}
+
+@media screen and (max-width:992px) {
+    .mega-box {
+        display: none;
+    }
+}

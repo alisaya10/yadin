@@ -1,0 +1,75 @@
+ /* .modern {
+   padding: 30px; */
+
+    .modern  .input-label {
+        font-size: 15px;
+        font-weight: 500;
+        color: rgb(28, 32, 70);
+    }
+
+    .modern  .input-container {
+        background-color: rgb(247, 249, 252);
+        border: none;
+        border-radius: 8px;
+        padding: 10px 15px;
+        margin: 7px 0px;
+        font-size: 13px;
+        font-weight: 500;
+        color: rgb(105, 117, 123);
+    }
+    .modern input {
+        background-color: transparent;
+        border: none;
+        outline: none;
+    }
+
+    .modern select {
+        background-color: transparent;
+        border: none;
+        -webkit-appearance: none;
+        outline: none;
+    }
+    .modern textarea {
+        background-color: transparent;
+        border: none;
+        outline: none;
+    }
+ /* } */
+
+ /* .white {
+     padding: 30px; */
+
+    .white .input-label {
+        font-size: 15px;
+        font-weight: 500;
+        color: rgb(28, 32, 70);
+    }
+
+    .white .input-container {
+        background-color: rgb(255, 255, 255);
+        border: none;
+        border-radius: 8px;
+        padding: 10px 15px;
+        margin: 7px 0px;
+        font-size: 13px;
+        font-weight: 500;
+        color: rgb(105, 117, 123);
+    }
+    .white input {
+        background-color: transparent;
+        border: none;
+        outline: none;
+    }
+
+    .white select {
+        background-color: transparent;
+        border: none;
+        -webkit-appearance: none;
+        outline: none;
+    }
+    .white textarea {
+        background-color: transparent;
+        border: none;
+        outline: none;
+    }
+ /* } */

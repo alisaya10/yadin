@@ -1,0 +1,136 @@
+.products-box {
+    background-color: #fff;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 10px;
+    /* margin: 10px; */
+}
+
+.productsbox-img {
+    width: 90%;
+    height: 160px;
+    object-fit: contain;
+}
+
+.products-name {
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+    /* margin-top: 10px; */
+}
+
+.products-price {
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: line-through;
+    color: #00000090;
+}
+
+.products-price1 {
+    font-size: 15px;
+    font-weight: 600;
+    color: #000;
+    /* margin-left: 26px !important; */
+}
+
+.fillterbox-products {
+    border-radius: 1px solid rgb(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+}
+
+.selectinput-sort {
+    width: 200px;
+    border: none;
+    padding: 5px 10px;
+}
+
+.flexcc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sortby-option {
+    /* color: rgb(0, 0, 0, 0.7); */
+    font-size: 13px;
+    font-weight: 300;
+    border-radius: 30px;
+    color: #fff;
+    text-decoration: none;
+    /* border: 1px solid rgb(0,0,0,0.1);
+border-radius: 20px; */
+    /* text-decoration: none; */
+}
+
+.sortby-option:hover {
+    background-color: #000000aa;
+}
+
+.active-filter {
+    background-color: #000 !important;
+}
+
+.categories {
+    color: rgb(0, 0, 0, 0.7);
+}
+
+.categories:hover {
+    background-color: rgb(245, 247, 250, 1);
+    border-radius: 30px;
+    color: #000;
+    text-decoration: none;
+}
+
+.searchinput-products {
+    /* width: 100%; */
+    flex: 1;
+    background-color: #fff;
+    /* background-color: rgb(245, 247, 250, 1); */
+    padding: 7px 10px;
+    /* margin: 5px 15px; */
+    border-radius: 30px;
+    font-size: 20px;
+    border: 1px solid #ccc
+}
+
+.searchinput-products input {
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.searchinput-products input::placeholder {
+    color: #9ab;
+}
+
+.login-bttn-products {
+    /* border: 1px solid rgb(0, 0, 0, 0.2); */
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 600;
+    padding-right: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 5px;
+    transition: 0.3s all;
+    /* color: #00000090; */
+}
+
+.login-bttn-products:hover {
+    background-color: rgb(245, 247, 250, 1);
+    /* color: #000; */
+}
+
+.shop-cart-bttn {
+    border: none;
+    background-color: transparent;
+}
+
+
+/* .plus-and-minus-border-box {
+    border: solid 1px #ddd;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+} */

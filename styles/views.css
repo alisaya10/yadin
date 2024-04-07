@@ -1,0 +1,60 @@
+.language-but {
+  background-color: transparent;
+  border: #f1f2f4 0px solid;
+  border-radius: 20px;
+  font-size: 14px;
+  padding: 2px 8px 2px 4px;
+}
+
+.language-select-box {
+  position: absolute;
+  bottom: 32px;
+  background-color: #f2f6f8dd;
+  padding: 15px 15px;
+  border-radius: 8px;
+}
+
+.ltr .language-select-box {
+  left: 0px;
+}
+
+.rtl .language-select-box {
+  right: 0px;
+}
+
+.language-select-option {
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+  padding: 0px;
+}
+
+.language-select-option img {
+  height: 20px;
+}
+
+.transition-all {
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.placeholder {
+  font-size: 15px;
+  color: #9ab;
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+canvas {
+  outline: none !important;
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0) !important;
+  /* mobile webkit */
+}
+/*# sourceMappingURL=views.css.map */
+

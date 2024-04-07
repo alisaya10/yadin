@@ -1,0 +1,355 @@
+.tickwting-main-header {
+    background-color: rgb(246, 248, 252);
+}
+
+.tickwting-header {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    background-color: rgb(246, 248, 252);
+    padding: 40px 0px;
+}
+
+.header-contain2 {
+    display: flex;
+}
+
+.header-contain1 {
+    display: flex;
+}
+
+.contain1-desc1 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.contain1-desc2 {
+    font-size: 13px;
+    font-weight: 700;
+    color: rgba(181, 182, 185, 1);
+    padding: 0px 5px;
+}
+
+.contain2-sesc1 {
+    font-size: 12px;
+    font-weight: 700;
+    color: rgba(161, 162, 168, 1);
+    padding: 0px 20px;
+}
+
+.contain2-button {
+    border: 0px;
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(50, 50, 50, 1);
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 12px;
+    transition: all 0.3s;
+}
+
+.contain2-button:hover {
+    background-color: rgba(64, 117, 190, 1);
+    color: rgba(255, 255, 255, 1);
+}
+
+.main-contain {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.input-box {
+    padding: 8px 15px;
+    border-right: 1px solid rgba(0, 0, 0, 0.05);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.search {
+    border: 0px;
+    background-color: rgb(247, 247, 252);
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+.single-ticket {
+    padding: 10px 15px;
+    /* border-right: 1px solid rgba(0, 0, 0, 0.05); */
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.ticket-situation {
+    height: 40px;
+    width: 40px;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.ticket-img1 {
+    width: 25px;
+}
+
+.ticket-name {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.ticket-desc {
+    font-size: 11px;
+    color: #000;
+    font-weight: 500;
+}
+
+.ticket-date {
+    font-size: 11px;
+    color: #789;
+    font-weight: 400;
+}
+
+.detail-header {
+    /* padding: 10px 20px; */
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    height: 38px;
+}
+
+.detail-desc1 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.detail-desc2 {
+    font-size: 15px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.detail-desc3 {
+    font-size: 12px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.detail {
+    border-right: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.detail-desc4 {
+    font-size: 16px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.profile-img1 {
+    width: 45px;
+}
+
+.ticketBox {
+    position: relative;
+    background-color: #f2f6f8;
+    padding: 10px 15px;
+    border-radius: 0px 15px 15px 15px;
+    margin: 0px 8px;
+    width: auto;
+    max-width: 200px;
+}
+
+
+.chatbox {
+    position: relative;
+    /* background-color: #202020; */
+    padding: 10px 15px;
+    border-radius: 0px 15px 15px 15px;
+    margin: 0px 8px;
+    width: auto;
+    max-width: 200px;
+}
+
+.chatbox.other {
+    background-color: #202020;
+}
+
+.chatboxOther {
+    /* background-color: #202020; */
+    display: flex;
+    justify-content: flex-end;
+}
+
+.chatbox-desc {
+    font-size: 13px;
+    /* color: #a0a0a0; */
+    /* background-color: #202020; */
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.status {
+    height: 48px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    display: flex;
+    align-items: center;
+}
+
+.status-desc1 {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 15px;
+}
+
+.status-desc2 {
+    font-size: 11px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.profile1 {
+    display: flex;
+    align-items: center;
+}
+
+.profile1-img {
+    width: 45px;
+}
+
+.profile1-desc1 {
+    font-size: 15px;
+    line-height: 15px;
+    font-weight: 600;
+}
+
+.profile1-desc2 {
+    font-size: 12px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.prof {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.prof-img {
+    width: 20px;
+    opacity: 0.75;
+    transition: all 0.3s;
+}
+
+.prof-img:hover {
+    opacity: 1;
+}
+
+.ticketing-tags-button1 {
+    font-size: 11px;
+    border: 0px;
+    border-radius: 3px;
+    background-color: rgb(246, 248, 252);
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.ticketing-tags-desc1 {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.ticketing-tags {
+    /* border-bottom: 1px solid rgba(0, 0, 0, 0.05); */
+    padding: 11px;
+}
+
+.ticketing-link {
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 11px 11px 11px;
+}
+
+.ticketing-link-desc1 {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.ticketing-link-link1 {
+    font-size: 13px;
+    font-weight: 500;
+    /* text-decoration: none; */
+}
+
+.ticketing-priority {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 11px;
+}
+
+.ticketing-priority-desc1 {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.ticketing-priority-desc2 {
+    font-size: 13px;
+    /* background-color: #000; */
+    font-weight: 600;
+    color: #ee5050;
+    /* border-radius: 4px; */
+    /* padding: 4px 15px; */
+}
+
+.ticketing-duedate {
+    display: flex;
+    justify-content: space-between;
+    padding: 11px;
+}
+
+.ticketing-duedate-desc1 {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.ticketing-side-info {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.ticketing-duedate-date1 {
+    font-size: 13px;
+    font-weight: 500;
+    color: #000;
+}
+
+.ticketing-reporter {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 11px 6px 11px;
+}
+
+.ticketing-reporter-desc1 {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.ticketing-reporter-desc2 {
+    font-size: 13px;
+    font-weight: 500;
+    color: #000;
+}
+
+.ticketing-information {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.ticketing-learnmore-button {
+    border: 0px;
+    background-color: rgba(255, 255, 255, 1);
+    color: #007aff;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.collaps-p {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.contain1-bttn1 {
+    border: 0px;
+    background-color: transparent;
+}

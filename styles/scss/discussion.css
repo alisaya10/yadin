@@ -1,0 +1,173 @@
+.edit-page-root {
+  margin: 15px 0;
+}
+
+.edit-page-root span {
+  padding: 0 12px;
+}
+
+.wrapper-discussion {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  max-width: 800px;
+  width: 100%;
+}
+
+.wrapper-discussion input, .wrapper-discussion textarea {
+  border: 1px solid #dfe0df;
+}
+
+.title-discussion h3 {
+  letter-spacing: .09rem;
+  font-size: 2.3rem;
+}
+
+div.title-for-span {
+  margin: 5px 0;
+}
+
+div.title-for-span span {
+  color: #818285;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.input-discussion-first-title input {
+  width: 100%;
+  min-height: 45px;
+  border-radius: 4px;
+}
+
+.add-detail {
+  margin: 5px 0;
+}
+
+.add-detail span {
+  font-size: 14px;
+  font-weight: 300;
+  color: #818285;
+}
+
+.main-item-for-typping .item-for-typing {
+  color: #818285;
+  margin: 5px 0;
+}
+
+.main-item-for-typping .item-for-typing span:nth-child(1) {
+  font-weight: bold;
+}
+
+.main-item-for-typping .item-for-typing span:nth-child(2) {
+  font-style: italic;
+}
+
+.main-item-for-typping .item-for-typing span:nth-child(3) {
+  text-decoration: underline;
+}
+
+.main-item-for-typping .item-for-typing span {
+  padding: 5px 20px;
+  cursor: pointer;
+}
+
+.main-item-for-typping .item-for-typing span:hover {
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+  color: #000;
+}
+
+.for-add-paragraph textarea {
+  width: 100%;
+  height: 250px;
+  padding: 0 3px;
+}
+
+.btn-for-post {
+  margin: 10px 0;
+  width: 100%;
+}
+
+.btn-for-post .inner-btn-handle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  width: 100%;
+}
+
+.btn-for-post .inner-btn-handle button {
+  padding: 8px 16px;
+  border-radius: 5px;
+}
+
+.btn-for-post .inner-btn-handle button:nth-child(1) {
+  background-color: #00CD74;
+  color: #fff;
+  width: 10%;
+}
+
+.btn-for-post .inner-btn-handle button:nth-child(2) {
+  margin-left: 20px;
+  background-color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+  .btn-for-post {
+    width: 100%;
+  }
+  .btn-for-post .inner-btn-handle {
+    width: 100% !important;
+  }
+  .btn-for-post button:nth-child(1) {
+    width: 14% !important;
+  }
+}
+
+.btn-for-reply {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.btn-for-reply .inner-btn-handle-for-reply {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  margin-top: 15px;
+}
+
+.btn-for-reply .inner-btn-handle-for-reply button {
+  padding: 8px 16px;
+  border-radius: 5px;
+}
+
+.btn-for-reply .inner-btn-handle-for-reply button:nth-child(1) {
+  background-color: #fff;
+  width: 10%;
+}
+
+.btn-for-reply .inner-btn-handle-for-reply button:nth-child(2) {
+  margin-left: 20px;
+  background-color: #00CD74;
+  color: #fff;
+}
+/*# sourceMappingURL=discussion.css.map */

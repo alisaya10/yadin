@@ -1,0 +1,70 @@
+.modern input {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.modern .flexr {
+  width: 60%;
+}
+
+.modern .text-input {
+  background-color: #fff;
+  border-radius: 5px;
+  width: 100%;
+  margin: 10px;
+}
+
+.modern .body-form-main {
+  background-color: rgba(54, 45, 185, 0.7);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.modern .body-form-main div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.modern .body-form-main label {
+  color: #ddd;
+}
+
+.modern input::-webkit-input-placeholder {
+  color: #868686;
+}
+
+.modern input:-ms-input-placeholder {
+  color: #868686;
+}
+
+.modern input::-ms-input-placeholder {
+  color: #868686;
+}
+
+.modern input::placeholder {
+  color: #868686;
+}
+/*# sourceMappingURL=redux.css.map */

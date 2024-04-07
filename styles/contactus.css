@@ -1,0 +1,119 @@
+.contactus-header {
+    font-size: 45px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 1);
+    z-index: 1;
+}
+
+.contactus-desc {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+}
+
+.contactus-hero {
+    position: relative;
+    padding: 60px 0px;
+    /* background-color: rgb(124, 154, 242); */
+    /* height: 90vh; */
+}
+
+.contactus-hero-bg {
+    background: linear-gradient(to right top, #202020, #262626);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 75%;
+    width: 100%;
+    z-index: 0;
+}
+
+.contactus-box {
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+}
+
+.contactus-box-img {
+    height: 80px;
+}
+
+.contactus-box-name {
+    font-size: 18px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.contactus-box-desc {
+    font-size: 14px;
+    color: #345;
+}
+
+.contactus-box-button {
+    border: 0px;
+    width: 100%;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    background-color: rgba(247, 249, 252, 1);
+    font-size: 16px;
+    color: #0052cc;
+    font-weight: 500;
+}
+
+.contactus-box-button:hover {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.joinus-box1 {
+    padding: 40px;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+    align-self: stretch;
+}
+
+.joinus-box2 {
+    padding: 40px;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+    align-self: stretch;
+}
+
+.joinus-desc1 {
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.joinus-desc2 {
+    font-size: 15px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 1);
+    line-height: 25px;
+}
+
+.join-link {
+    color: rgba(114, 121, 208, 1);
+    font-weight: 500;
+    font-size: 16PX;
+    text-decoration: none;
+}
+
+.join-link:hover {
+    color: rgba(0, 0, 0, 0.9);
+}
+
+.usecase-round1 {
+    width: 12px;
+    height: 12px;
+    border-radius: 30px;
+    border: 3px solid rgba(63, 101, 233, 1);
+    box-shadow: 0 4px 8px 0 rgba(63, 101, 233, 0.2);
+    position: relative;
+}
+
+.usecase-squer1 {
+    width: 100%;
+    height: 50px;
+    mix-blend-mode: color-burn;
+    /* background-color: rgba(114, 156,150, 1); */
+    /* position: relative; */
+}

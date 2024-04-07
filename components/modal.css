@@ -1,0 +1,39 @@
+.modal-title{
+    font-size: 16px;
+    font-weight: 600;
+}
+.modal-title-input{
+background-color: rgb(246 , 248,  252);
+border: 0px;
+padding: 5px 10px;
+font-size: 15px;
+}
+.modal-desc{
+    font-size: 16px;
+    font-weight: 600;
+}
+.modal-desc-textarea{
+    border: 0px;
+    background-color:rgb(246 , 248,  252) ;
+padding: 5px 10px;
+font-size: 15px;
+}
+.modal-submite-button{
+    border: 1px solid rgb(64, 117, 190, 1);
+    background-color: rgb(255, 255, 255);
+    font-size: 13px;
+    padding: 8px 18px;
+    color:rgb(64, 117, 190, 1) ;
+    border-radius: 50px;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+.modal-submite-button:hover{
+background-color: rgb(64, 117, 190, 1);
+color: rgb(255, 255, 255);
+}
+.modal-attach-desc{
+    font-size: 16px;
+    font-weight: 600;
+
+}

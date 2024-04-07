@@ -1,0 +1,247 @@
+.side-wrapp {
+    display: flex;
+    flex-direction: row;
+    /* align-items: flex-start; */
+}
+
+.aside-part {
+    position: relative;
+    min-width: 288px;
+    height: 100%;
+    background-color: #F7F8FC;
+}
+
+.main-part {
+    width: 80%;
+}
+
+.main-aside-part-section {
+    display: flex;
+    flex-direction: column;
+    overflow-wrap: break-word;
+    cursor: pointer;
+}
+
+.exit-item-part {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.small-logo-edit {
+    width: 30px;
+    height: 30px;
+}
+
+.title-head-txt {
+    font-size: .9rem;
+    text-transform: capitalize;
+    /* padding-top: 9px;
+    padding-left: 15px; */
+    cursor: pointer;
+}
+
+.logo-with-title-first {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex: 1;
+    margin-left: 8px;
+}
+
+.exit-icon {
+    margin-right: 10px;
+}
+
+.edit-on-hover {
+    cursor: pointer;
+    color: #000;
+}
+
+
+/* .edit-on-hover:hover {
+    transition: all ease-in-out .3s;
+    color: rgb(70, 102, 241);
+} */
+
+.line-thin-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+    top: -10px;
+}
+
+.line-thin {
+    width: 95%;
+    height: 1px;
+    border: none;
+    background-color: #ddd;
+}
+
+.circle-side-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    /* border-bottom: 1px solid #000; */
+}
+
+.item-lesson-logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.lesson-logo {
+    width: 45px;
+    height: 45px;
+}
+
+.logo-with-title {
+    display: flex;
+    flex-direction: column;
+}
+
+.extra {
+    flex: 2;
+}
+
+.txt-title-sidebar {
+    font-size: .9rem;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: #f20061;
+}
+
+.episode-with-time {
+    display: flex;
+    flex-direction: row;
+    width: 79%;
+    justify-content: flex-start;
+}
+
+.edit-txt-in-side {
+    font-size: .6rem;
+    font-weight: bold;
+    /* margin-left: 8px; */
+}
+
+.icon-in-sidebar {
+    font-size: .7rem;
+    margin-right: 5px;
+}
+
+.just-for-line {
+    border: none;
+    height: 1px;
+    background-color: #ddd;
+}
+
+#clock {
+    color: #000;
+    font-size: .7rem;
+    margin-right: 5px;
+    /* padding-left: 5px; */
+}
+
+.section-div-small {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 8px;
+}
+
+.section-div-small-item {
+    /* max-width: 998px; */
+    width: 97% !important;
+    /* background-color: #fff; */
+    border-radius: .9rem;
+    margin: 4px 0;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-section-small {
+    padding: 0 15px;
+    flex: 5;
+}
+
+#sec-small {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#vertical-line-small {
+    color: rgb(175, 175, 175);
+    font-size: .9rem;
+}
+
+#second-small {
+    font-size: 16px;
+    font-weight: 400;
+    /* color: #7B00F7; */
+}
+
+.hidden-small {
+    color: rgb(95, 95, 95);
+    /* opacity: 0; */
+    flex: 1;
+}
+
+.edit-for-inside-icon {
+    background-color: #fff;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: .6rem;
+}
+
+
+/* .section-div-small:hover * {
+    transition: all ease-in-out .3s;
+    opacity: 1;
+} */
+
+
+/* ----------main------- */
+
+video {
+    object-fit: fill;
+    width: 100%;
+    height: 100%;
+}
+
+@media screen and (max-width:992px) {
+    .side-wrapp {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .aside-part {
+        width: 100%;
+        display: none;
+    }
+    .main-part {
+        width: 100%;
+    }
+    .hidden-small {
+        display: flex;
+        justify-content: flex-end;
+    }
+    .section-div-small {
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    .exit-item-part {
+        width: 90%;
+        margin: 0 auto;
+    }
+}

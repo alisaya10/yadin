@@ -1,0 +1,44 @@
+$primaryColor: rgba(54, 45, 185, 0.7);
+$primarybackgroundcolor: #fff;
+$placeholdercolor: rgb(134, 134, 134);
+$fontcolor: #ddd;
+$borderRadius: 5px;
+
+@mixin flexrow() {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.modern {
+  input {
+    background-color: transparent;
+    border: none;
+    outline: none;
+  }
+  .flexr {
+    // @include flexrow();
+    width: 60%;
+  }
+  .text-input {
+    background-color: $primarybackgroundcolor;
+    border-radius: $borderRadius;
+    width: 100%;
+    margin: 10px;
+  }
+  .body-form-main {
+    background-color: $primaryColor;
+    @include flexrow();
+
+    div {
+      @include flexrow();
+    }
+    label {
+      color: $fontcolor;
+    }
+  }
+
+  input::placeholder {
+    color: $placeholdercolor;
+  }
+}

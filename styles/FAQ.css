@@ -1,0 +1,128 @@
+.FAQ-input{
+    color: rgb(60, 60, 60);
+    font-size: 15px;
+    border: 1px solid rgb(224, 225, 228);
+ width: 100%;
+    border-radius: 8px;
+    padding: 10px 15px;
+    outline: none;
+
+}
+.FAQ-p1{
+    font-size: 30px;
+    font-weight: 500;
+}
+.FAQ-a{
+text-decoration: none;
+/* font-weight: 500; */
+font-size: 15px;
+color: rgb(89, 104, 205);
+}
+.FAQ-a:hover{
+    color: rgb(0, 0, 0);
+}
+.FAQ-p2{
+    font-size: 13px;
+    /* font-weight: 500; */
+    color: rgb(78, 72, 100);
+}
+.FAQ-box{
+    background-color: rgb(248,250,252);
+    width: 100%;
+    position: sticky;
+   top: 20px;
+}
+.FAQ-support-a{
+    text-decoration: none;
+    color: rgb(89, 104, 205);
+    font-size: 14px;
+    font-weight: 500;
+}
+.FAQ-support-a:hover{
+    color: rgb(0, 0, 0);
+}
+.FAQ-support-p1{
+color: rgb(115, 123, 139);
+font-size: 14px; 
+margin-bottom: 15px;
+}
+.FAQ-support{
+    border-bottom: 1px solid rgb(228, 232, 237);
+}
+.FAQ-support-p2{
+    font-size: 14px; 
+    margin-top: 15px;
+    font-weight: 500;
+}
+.FAQtag{
+    text-decoration: none;
+    color: rgb(89, 104, 205);
+    font-size: 12px;
+    font-weight: 500;
+}
+.FAQtag:hover{
+    color: #000;
+}
+.FAQquestion-icon{
+    width: 8px;
+    filter: invert(100%);
+}
+.FAQquestion-img{
+    width: 11px;
+    height: 11px;
+    border-radius: 50px;
+    background-color:#5968cd ;
+}
+.FAQquestion{
+    padding-top: 6px;
+    
+}
+.FAQicons{
+    width: 17px;
+}
+.FAQmoreinfo-a{
+    text-decoration: none;
+    color: rgb(89, 104, 205);
+    font-size: 15px;
+    /* font-weight: 500; */
+}
+.FAQmoreinfo-a:hover{
+    color: rgb(0, 0, 0);
+}
+.FAQmoreinfo-p{
+    font-size: 13px;
+}
+.FAQmoreinfo-bg{
+    background-color:rgb(248, 250, 252) ;
+    
+}
+.squer{
+    width: 100%;
+    height: 100%;
+    padding-top: 300px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.squer1{
+    width: 200px;
+    height:70px;
+    background-color: #5a6ec9;
+}
+.squer3{
+    width: 130px;
+    height:60px;
+
+    background-color: #C8D3FF;
+}
+
+.squer2{
+    width: 90px;
+    height:60px !;
+   
+    
+    background-color: rgb(175, 217, 249);
+}

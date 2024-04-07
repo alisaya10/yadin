@@ -1,0 +1,86 @@
+.contactsales-bg {
+    background-color: rgb(247, 249, 252);
+}
+
+.cntactsales-bg1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 80%;
+    background: linear-gradient(to right top, #0052cc, #7b00f7);
+    z-index: 0;
+}
+
+.contactsales-header {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.contactsales-box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 0px 0px 30px #00000030;
+}
+
+.contactsales-desc1 {
+    font-size: 25px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+}
+
+.ontactsales-img {
+    width: 15px;
+    filter: invert(100%);
+}
+
+.ontactsales-desc2 {
+    font-size: 14px;
+    font-weight: 400;
+    /* opacity: 0.8; */
+    color: rgba(255, 255, 255, 1);
+}
+
+.contactsales-button {
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    background: linear-gradient(to left, #0052cc, #7b00f7);
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+.contactsales-button:hover {
+    background-color: rgb(86, 123, 202);
+}
+
+.contactsales-img2 {
+    width: 30px;
+    filter: invert(100%);
+}
+
+.contactsales-desc3 {
+    font-size: 19px;
+    /* font-weight: 600; */
+    color: rgba(255, 255, 255, 1);
+}
+
+.contactsales-desc4 {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.9);
+    /* margin-top: 20px; */
+    /* font-weight: 500; */
+}
+
+.contactsales-a {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 1);
+    text-decoration: underline !important;
+    font-weight: 600;
+}
+
+.contactsales-a:hover {
+    color: rgba(255, 255, 255, 1);
+}

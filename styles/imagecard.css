@@ -1,0 +1,122 @@
+.card-text-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.card-text-inner {
+    margin-bottom: 20px;
+}
+.card-text-inner-para {
+    color: #000;
+    opacity: .7;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+.card-image-main {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: .9rem;
+}
+.card-image-content {
+    display: flex;
+    flex-direction: row;
+    /* flex:3; */
+}
+
+.card-image-content-with-img {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.content-card-box {
+    padding: 60px 0px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-card-svg {
+    width: 100px;
+    height: 100%;
+    object-fit: cover;
+}
+.content-card-box-inner {
+    width: 70%;
+   
+}
+.txt-content-card-para {
+    color: #000;
+    opacity: .7;
+    font-weight: 200;
+    margin: 40px 0;
+}
+.small-card-icon {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 24px;
+}
+.small-card-txt-icon {
+    color: #000;
+    opacity: .6;
+    font-size: .71rem;
+}
+.cardimg {
+    color:#000;
+    font-size: .71rem;
+}
+.btn-for-small-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: .9rem;
+}
+.small-btn-inner {
+    background-color:  rgb(237,237,237);
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: .9rem;
+    padding: 10px 10px;
+    /* margin-left: 50px; */
+    cursor: pointer;
+}
+.small-btn-inner:hover *{
+    transition:  all ease-in-out .3s;
+    color: rgb(73, 147, 243);
+
+
+}
+.btn-for-small-card:hover {
+    transition:  all ease-in-out .3s;
+    -webkit-box-shadow: 0px 0px 30px  rgba(40,0,0,0.07); 
+    box-shadow: 0px 0px 30px  rgba(40,0,0,0.07);
+}
+
+@media screen and (max-width:768px) {
+    
+    .card-text-inner-para {
+        text-align: center;
+    }
+    .card-image-content {
+        margin-bottom: 20px;
+    }
+    .order {
+        order:1 !important;
+    }
+    .order-main {
+        order: 12 !important;
+    }
+}

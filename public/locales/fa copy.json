@@ -1,0 +1,688 @@
+{
+
+    "Developers": "توسعه دهندگان",
+    "developers-description": "اگر می خواهید اسناد را مطالعه کنید، می توانید صفحه توسعه دهندگان ما را بررسی کنید",
+    "Visit-Developers": "از توسعه دهندگان بازدید کنید",
+    "Academy": "آکادمی",
+    "our offer": "پیشنهاد ما",
+    "Add to cart": "افزودن به سبد خرید",
+    "Academy-about-us": "انتقادات و پیشنهادات",
+    "Developers-about-us": "چشم اندازهای ما",
+    "Visit-Academy": "از آکادمی دیدن کنید",
+    "academy-description": "ما اینجا هستیم تا به شما کمک کنیم درباره اینترنت اشیا و پلتفرم ما بیشتر بدانید",
+    "Media-Press": "فرصت های شغلی",
+    "Visit-Blogs": "از وبلاگ ها دیدن کنید",
+    "media-description": "از وبلاگ های ما دیدن کنید و در مورد اخبار و مقالات به روز باشید",
+    "under-card-about-us-right": "حال ما چطور است؟",
+    "under-card-about-us-right-desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع ",
+    "under-card-about-us-left": "هدف ما چیست؟",
+    "under-card-about-us-left-desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع ",
+    "A-word-from": "یک کلمه از",
+    "our-CEO": "مدیر عامل ما",
+    "our-ceo-desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع ",
+    "Keep-in-touch": "در تماس باش",
+    "with-us": "با ما",
+    "keep-in-touch-desc": "برای هرگونه سوال و درخواست خدمات در هر نقطه ای با ما تماس بگیرید. ما بسیار خوشحال خواهیم شد که به شما کمک کنیم.",
+    "adress": "استان تهران، شهر تهران، بهشتی، خیابان خالد اسلامبولی، خیابان یازدهم، پلاک 21",
+    "blue-box-in-about-us-ip-footer-title": "به دنبال خدمات هستید؟",
+    "blue-box-in-about-us-ip-footer-desc": "اگر به دنبال درخواست خدمات پیاده سازی اینترنت اشیا از کارشناسان خبره هستید، می توانید از لینک زیر استفاده کرده و درخواست خود را ارسال کنید",
+    "blue-box-in-about-us-ip-footer-button": "درخواست خدمات",
+    "academy-desc": "آکادمی برای کاربران و شرکا",
+    "Found-Nothing": "چیزی پیدا نشد",
+    "Search-box": "جستجو کردن...",
+    "under-search-desc-academy-page": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله",
+    "Featured": "ویژه",
+    "Free": "رایگان",
+    "Difficulty": "دشواری",
+    "lessons": "درس ها",
+    "lesson": "درس ",
+    "View-course": "مشاهده یادین",
+    "view-lesson": "مشاهده درس",
+    "Trending": "پرطرفدار",
+    "category-explore": "دسته‌های آکادمی را کاوش کنید",
+    "Explore-more": "بیشتر کاوش کنید",
+    "courses": "یادین های آموزشی",
+    "purple-box-academy-documnet-title": "به دنبال اسناد هستید؟",
+    "purple-box-academy-documnet-desc": "اگر به دنبال اسناد توسعه دهندگان هستید، روی ضربه پیوند کلیک کنید",
+    "purple-box-academy-documnet-button": "از اسناد بازدید کنید",
+    "Recently-Updated": "به تازگی به روز شده است",
+    "recently-update-desc": "کنجکاو هستید که در Laracasts چه خبر است؟ سری های زیر به تازگی آپدیت شده اند.",
+    "just-address": "نشانی",
+    "Shop": "خرید کنید",
+    "Order-Details": "جزئیات سفارش",
+    "Confirm-Pay": "تایید و پرداخت",
+    "Submit-Requirements": "ارسال الزامات",
+    "Add-new": "جدید اضافه کن",
+    "Choose-Your-Address": "آدرس خود را انتخاب کنید",
+    "Submite": "ارسال",
+    "Continue-to-Checkout": "به پرداخت ادامه دهید",
+    "Price-summary": "خلاصه قیمت",
+    "Subtotal": "جمع فرعی",
+    "Service-Fee": "هزینه خدمات",
+    "Total": "جمع",
+    "Delivery-Time": "زمان تحویل",
+    "Edit": "ویرایش کنید",
+    "Delete": "حذف",
+    "Post-Code": "کد پستی",
+    "hide-included-shop-addres-section": "پنهان کردن آنچه شامل می شود",
+    "Hub": "هاب",
+    "errors.loadDataFailed": "خطا در بارگذاری اطلاعات",
+    "info.postedSuccesfully": "با موفقیت ارسال شد",
+    "info.dataPostedSuccesfully": "با موفقیت ارسال شد",
+    "errors.postedFailed": "خطا در ارسال",
+    "single-blog-page-left-side": " «تبسم اینترنت اشیاء» یک راه‌حل جامع برای هوشمندسازی تمامی کسب‌وکارها و خدمات خصوصی یا تجاری است. کافی است دستگاه خود را به پلتفرم «تبسم» متصل کنید؛ پس از آن می‌توانید به کمک اپلیکیشن «تبسم» از هر نقطه‌ای که بخواهید، اطلاعات آن را دریافت کنید یا به آن فرمان دهید و همچنین تنظیم کنید که در چه شرایطی یا هنگام چه رخدادی، دستگاه‌ شما چه کاری انجام دهد. این یعنی هوشمندسازی زیر پای شماست.",
+    "Related Articles": "مقالات مرتبط",
+    "blogs-desc-under-title": "یادداشت ها، اخبار و داستان ها",
+    "Search-box-blog": "جستجو برای موضوع…",
+    "under-search-desc-blogs-page": "ما برای خوانندگان علاقه مندی که می خواهند از تجربیات دیگران برای انجام پروژه های خود یا آگاهی از اخبار و فناوری ها استفاده کنند، داستان های جالبی منتشر می کنیم.",
+    "Read-more": "ادامه مطلب",
+    "Latest-Blogs": "آخرین وبلاگ ها",
+    "learn-about-iot-blog-slug-page": "درباره IoTSmile بدانید؟",
+    "footer-first-desc": "در نهایت، یک پلتفرم اینترنت اشیا که هم قدرتمند است و هم استفاده از آن آسان است. تجربیات لذت بخشی برای مشتری ایجاد کنید.",
+    "footer-Fast-Access": "دسترسی سریع",
+    "footer-Visit-Academy": "از آکادمی دیدن کنید",
+    "footer-Visit-Developers": "از توسعه دهندگان بازدید کنید",
+    "footer-Visit-Platform": "پاورقی بازدید از پلت فرم",
+    "footer-Visit-Shop": "از فروشگاه دیدن کنید",
+    "footer-Visit-Forum": "از انجمن دیدن کنید",
+    "footer-Company": "شرکت",
+    "footer-Partners": "شرکا",
+    "footer-Ticketing": "تهیه بلیط",
+    "blogs": "وبلاگ ها",
+    "footer-Terms": "مقررات",
+    "footer-Policies": "سیاست ها",
+    "platform": "پلتفرم",
+    "usecases": "موارد استفاده",
+    "learning": "یادگیری",
+    "shop": "فروشگاه",
+    "Cart-is-empty": "سبد خالی است",
+    "View-Cart": "مشاهده سبد خرید",
+    "main-page-title-txt": "فعال کننده کسب و کار IoTSmile",
+    "main-page-desc-txt": "هزینه ها را کاهش دهید یا با کاری که همه چیز آنطور که می خواهید کار کند، کسب درآمد کنید، دارایی های خود را کنترل و نظارت کنید، و داده ها و خدماتی را برای دیگران ارائه دهید.",
+    "main-page-desc-txt-edit-one": "این می تواند تجارت شما باشد..",
+    "main-page-desc-txt-edit-two": "ما اینجا هستیم تا مسیر شما را به سوی جهانی شدن و بهره‌وری فعال کنیم. با ما، می‌توانید کسب‌وکار کوچک/بزرگ خود را به پلتفرم ما اضافه کنید و آنچه را که مشتریانتان نیاز دارند، سریع‌تر و آسان‌تر ارائه دهید.",
+    "earn-money-by": "کسب درآمد از طریق:",
+    "earn-money-by-one": "فروش داده های دستگاه شما و داشبوردهای مانیتورینگ،",
+    "earn-money-by-two": "فروش دستگاه ها/راه حل های سفارشی شما،",
+    "based-on-iotsmile": "بر اساس پلتفرم IoTSmile",
+    "under-main-img-homePage": "یک پلتفرم جهانی اینترنت اشیا برای همه برای ساختن یا ارائه هر سیستم اتوماسیون سریع‌تر، هوشمندتر، انعطاف‌پذیرتر و راحت‌تر، توسط دستگاه‌ها و فناوری‌های مختلف فروشنده.",
+    "Data-History": "تاریخ داده",
+    "Data-History-desc-platform-page": "",
+    "Coins": "کانال ها",
+    "Coins-desc-platform-page": "",
+    "Notifications": "اطلاعیه ها",
+    "Notification-desc-platform-page": "",
+    "Add Device": "اضافه کردن دستگاه",
+    "Add Device-desc-platform-page": "",
+    "Create Applet": "ایجاد اپلیکیشن",
+    "Create Applet-desc-platform-page": "",
+    "Workflow": "گردش کار",
+    "Workflow-desc-platform-page": "",
+    "View in shop": "مشاهده در فروشگاه",
+    "Search-box-academy": "جستجو برای یادین ...",
+    "Search-box-forum": "مشکل خود را جستجو کنید..",
+
+
+
+
+    "Your": "",
+
+    "Visit Platform": "بازدید از پلتفرم",
+    "Visit Forum": "بازدید از انجمن",
+    "IoTSmile Documentation and Tutorials": "دستورالعمل و آموزش IoTSmile",
+    "IoTSmile Documentation": "مستندات IoTSmile",
+
+    "Visit Documentation": "بازدید از دستورالعمل",
+    "IoTSmile Blogs and News": "وبلاگ و اخبار IoTSmile",
+    "Visit IoTSmile Blogs and News": "بازدید از وبلاگ و اخبار ",
+    "Designed-for-public-use-list-item-1-section-main-page": "Use it freely with some limitations. It is good for testing or very small  applications.",
+    "Designed-for-public-use-list-item-2-section-main-page": "Buy credits for dropping limitations and being premium user. It is for  professional or business usage.",
+    "Designed-for-public-use-list-item-3-section-main-page": "Make your data or gateways public to earn more credit. The most users you  have, the more credit you get. So, put your public devices in proper places.",
+    "Designed-for-public-use-list-item-4-section-main-page": "You can change your credits to real money when the others pay for the services  you provide.",
+
+
+    "Technologies Support": "پشتیبانی تکنولوژی",
+    "Security and Privacy": "امنیت و احترام به حریم خصوصی",
+    "Technical Support Team": "تیم پشتیبانی فنی",
+    "Services Fast Access": "سریع دسترسی به خدمات",
+    "IoTSmile Platform": "پلتفرم IoTSmile",
+
+
+    "IoTSmile Forum": "انجمن IoTSmile",
+
+
+
+    "main-page-button": "رایگان شروع کنید",
+    "main-page-under-button-title": "با ابزارهای رایگان شروع کنید،",
+    "main-page-under-button-title-sec": "یا با ویژگی های برتر ما بیشتر به دست آورید.",
+    "Our-Platform-section-title": "موارد استفاده",
+    "platform-section-desc": "پلت فرم را می توان در این موارد استفاده کرد،",
+    "platform-section-desc-sec": "اما نه محدود به موارد استفاده زیر",
+    "Why-IOTSmile": "چرا پلتفرم IOTSmile",
+    "why-iotsmile-desc": "استفاده از IoTSmile",
+    "public": "فواید",
+    "card-why-iotsmile-Intractive-Dashboard-title": "داشبورد تعاملی",
+    "card-why-iotsmile-Intractive-Dashboard-desc": "مدل‌های یادگیری ماشینی ما روی میلیاردها نقطه داده آموزش می‌بینند و به افزایش درآمد از طریق تبدیل، کلاهبرداری، بازیابی درآمد و موارد دیگر کمک می‌کنند.",
+    "card-why-iotsmile-Explore-Things-title": "کاوش چیزها",
+    "card-why-iotsmile-Explore-Things-desc": "مدل‌های یادگیری ماشینی ما روی میلیاردها نقطه داده آموزش می‌بینند و به افزایش درآمد از طریق تبدیل، کلاهبرداری، بازیابی درآمد و موارد دیگر کمک می‌کنند.",
+    "card-why-iotsmile-Manage-Your-Things-title": "چیزهای خود را مدیریت کنید",
+    "card-why-iotsmile-Manage-Your-Things-desc": "مدل‌های یادگیری ماشینی ما روی میلیاردها نقطه داده آموزش می‌بینند و به افزایش درآمد از طریق تبدیل، کلاهبرداری، بازیابی درآمد و موارد دیگر کمک می‌کنند.",
+    "card-why-iotsmile-Financial-Management-title": "مدیریت مالی",
+    "card-why-iotsmile-Financial-Management-desc": "مدل‌های یادگیری ماشینی ما روی میلیاردها نقطه داده آموزش می‌بینند و به افزایش درآمد از طریق تبدیل، کلاهبرداری، بازیابی درآمد و موارد دیگر کمک می‌کنند.",
+    "Designed-for-public-use-section-main-page": "برای استفاده عمومی طراحی شده است",
+    "Designed-for-public-use-title-section-main-page": "با قدرتمندترین پلتفرم اینترنت اشیا در جهان کسب درآمد کنید",
+    "Designed-for-public-use-desc-section-main-page": "ما در مورد انتزاعات درست عذاب می‌کشیم تا تیم‌های شما نیازی به پیوند سیستم‌های متفاوت یا صرف ماه‌ها صرف یکپارچه‌سازی عملکرد پرداخت نداشته باشند.",
+    "Sell-Things-main-page-title": "فروش چیزها",
+    "Sell-Things-main-page-desc": "ما کتابخانه های سرویس گیرنده و سرور را در همه چیز از React و PHP گرفته تا دات نت و iOS ارائه می دهیم.",
+    "Sell-Data-section-main-page-title": "فروش داده",
+    "Sell-Data-section-main-page-desc": "ما کتابخانه های سرویس گیرنده و سرور را در همه چیز از React و PHP گرفته تا دات نت و iOS ارائه می دهیم.",
+    "iotsmile-platform-main-page-desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری ",
+    "Friendly": "مهربان",
+    "developers-friendly-section-desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری ",
+    "Visit-developers-section": "به بخش توسعه دهندگان مراجعه کنید",
+    "Connect": "اتصال",
+    "Any-Device": "هر دستگاه",
+    "connect-anydevice-desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری ",
+    "Services": "سرویس",
+    "academy-purple-mainpage-desc": "ما در مورد انتزاعات درست عذاب می‌کشیم تا تیم‌های شما نیازی به پیوند سیستم‌های متفاوت یا صرف ماه‌ها صرف یکپارچه‌سازی عملکرد پرداخت نداشته باشند.",
+    "shop-blue-section-mainpage-desc": "ما در مورد انتزاعات درست عذاب می‌کشیم تا تیم‌های شما نیازی به پیوند سیستم‌های متفاوت یا صرف ماه‌ها صرف یکپارچه‌سازی عملکرد پرداخت نداشته باشند.",
+    "Visit-shop": "از فروشگاه دیدن کنید",
+    "developers-red-section-mainpage-desc": "ما در مورد انتزاعات درست عذاب می‌کشیم تا تیم‌های شما نیازی به پیوند سیستم‌های متفاوت یا صرف ماه‌ها صرف یکپارچه‌سازی عملکرد پرداخت نداشته باشند.",
+    "Visit-developers": "از توسعه دهندگان بازدید کنید",
+    "platform-yellow-section-mainpage-desc": "ما در مورد انتزاعات درست عذاب می‌کشیم تا تیم‌های شما نیازی به پیوند سیستم‌های متفاوت یا صرف ماه‌ها صرف یکپارچه‌سازی عملکرد پرداخت نداشته باشند.",
+    "Browse-categories": "دسته ها را مرور کنید",
+    "Clearance": "ترخیص کالا از گمرک",
+    "Up-to-30%-Off": "تا 30% تخفیف",
+    "search-product": "جستجوی محصول",
+    "Explore-Categories": "کاوش دسته ها",
+    "View-Products": "مشاهده محصولات",
+    "Featured-Products": "محصولات ویژه",
+    "Today’s-deal-and-more": "معامله امروز و موارد دیگر",
+    "Trending-Products": "محصولات پرطرفدار",
+    "Hot-and-ready-to-deliver": "گرم و آماده تحویل",
+    "Sort-by": "مرتب سازی بر اساس",
+    "filter-search-shop-slug-page-desc": "پارامترهای جستجوی خود را برای یافتن محصولات تغییر دهید",
+    "Partners": "شرکا",
+    "partners-page-desc-down-title": "شرکت ها و افراد می توانند با IoTSmile شریک شوند",
+    "Sell-devices": "فروش دستگاه",
+    "Do-Services": "انجام خدمات",
+    "Sell-Data": "فروش داده",
+    "sell-data-desc": "اگر می خواهید اسناد را مطالعه کنید، می توانید صفحه توسعه دهندگان ما را بررسی کنید",
+    "do-servic-desc": "ما اینجا هستیم تا به شما کمک کنیم درباره اینترنت اشیا و پلتفرم ما بیشتر بدانید",
+    "sell-data": "از وبلاگ های ما دیدن کنید و در مورد اخبار و مقالات به روز باشید",
+    "in-platform": "در پلت فرم",
+    "sell-data-desc-in-partners-page": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری ",
+    "as-a-partner": "به عنوان یک شریک",
+    "do-service-desc-partners-page": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری ",
+    "in-shop": "در فروشگاه",
+    "sell-device-desc-page-partners": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری ",
+    "Request-to-become-a-partner": "درخواست شریک شدن",
+    "Only-for-selling-devices-and-doing-services": "فقط برای فروش دستگاه و انجام خدمات",
+    "You-need-to-be-logged": "قبل از ارسال فرم باید وارد سیستم شوید",
+    "Submit-Request": "ارسال درخواست",
+    "submit-request-form-partners-page": "درخواست شما با موفقیت ارسال شد. کارشناسان ما ظرف 48 ساعت با شما تماس خواهند گرفت",
+    "how-to-become-a-partner": "چگونه می توان شریک شد؟",
+    "how-to-be-come-partner-desc1": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه",
+    "how-to-be-come-partner-desc2": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه",
+    "how-to-be-come-partner-desc3": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه",
+    "Use-Live-Messenger": "از Live Messenger استفاده کنید",
+    "use-live-messanger-desc": "برای ارتباط سریع می توانید از سرویس چت زنده ما استفاده کنید. کارشناسان ما در آنجا به شما کمک خواهند کرد",
+    "page": "صفحه",
+    "under-contact-us-in-partenrs-page": "همچنین می توانید با استفاده از ایمیل، تلفن و غیره مراجعه کنید",
+    "Request-Service": "هوشمند کردن محیط خود",
+    "request-servise-desc": "IoTSmile می تواند یک راه حل کامل برای مناطق یا مکان های خاص برای ارائه هر گونه خدمات خودکار به مشتریان ارائه دهد. تمام دستگاه ها، برنامه ها و خدمات توسط متخصصان IoTSmile ارائه خواهد شد. فقط اطلاعات مورد نیاز را در فرم زیر ارائه دهید.",
+    "With-IoTSmile-you-can": "با IoTSmile می توانید",
+    "with-iotsmile-sec-1": "منابع حیاتی توسعه‌دهنده را روی کسب‌وکار اصلی خود متمرکز کنید",
+    "with-iotsmile-sec-2": "محصولات جدید را سریعتر با کد پرداخت کمتر راه اندازی کنید",
+    "with-iotsmile-sec-3": "امکانات خود را با استفاده از فناوری های پیشرفته بهبود بخشید",
+    "ticketing": "بلیط فروشی",
+    "terms-of-use": "مشاغل و فرصت ها",
+    "Forums": "انجمن ها",
+    "academy-header-desc": "یادین هایی برای یادگیری بیشتر در مورد پلتفرم و اینترنت اشیا",
+    "forums-header-desc": "سوالات خود را بپرسید و سعی کنید پاسخ خود را پیدا کنید",
+    "developers-headear-desc": "اسناد مربوط به پلتفرم و دستگاه ها برای توسعه دهندگان",
+    "desc-under-about-us-header-megamenu": "IoTSmile تیم های هوش اینترنت اشیا را جمع آوری کرد تا پیشرفته ترین خدمات را برای اتوماسیون محیط شما ارائه دهد. شما می توانید در مورد ما بخوانید و از طریق این صفحه با ما تماس بگیرید.",
+    "title-platform-page": "همه دستگاه های اینترنت اشیاء خود را وصل کنید یا از دستگاه های ارائه دهنده دیگر استفاده کنید",
+    "bottom-title-platform-page": "شروع به استفاده از پلت فرم کنید",
+    "main-text-platform-page": "چرا باید از پلتفرم IoTSmile استفاده کنم؟",
+    "main-desc-platform-page": "پلتفرم ما به شما کمک می کند تا تمام دستگاه های اینترنت اشیاء خود را از هر نوعی به سیستم متصل کنید. می توانید دستگاه های خود را به صورت عمومی یا خصوصی به اشتراک بگذارید و از دستگاه های مشترک استفاده کنید.",
+    "card-box-title-platform-page-1": "هر دستگاهی را وصل کنید",
+    "card-box-desc-platform-page-1": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و",
+    "card-box-title-platform-page-2": "دستگاه ها را به اشتراک بگذارید",
+    "card-box-desc-platform-page-2": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و",
+    "card-box-title-platform-page-3": "دستگاه های موجود را کاوش کنید",
+    "card-box-desc-platform-page-3": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و",
+    "chat-user-name-platform-page": "محمد",
+    "chat-question-platform-page": "چگونه می توانم دفتر خود را به پلت فرم متصل کنم؟ ما 2 ساختمان داریم که باید متصل شوند",
+    "Team": "تیم",
+    "iotsmile-team-question": "سلام محمد جان از چه تکنولوژی استفاده میکنی؟",
+    "chat-user-answer": "ما از Zigbee و wifi استفاده می کنیم ...",
+    "Support": "حمایت کردن",
+    "support-section-desc-platform-page": "تیم ما آماده کمک به شما برای مشکلاتی است که با آن روبرو هستید و",
+    "featured-sec-title-platform-page": "ویژگی های پلتفرم چیست؟",
+    "featured-sec-desc-platform-page": "پلتفرم IoTSmile برای رفع تمام نیازهای شما برای اتصال و به اشتراک گذاری دستگاه های شما طراحی شده است. برخی از ویژگی های ضربه توصیف شده است.",
+    "Dashboard": "داشبورد",
+    "dashboard-desc-platform-page": "شما می توانید داشبوردهای نامحدود ایجاد کنید، و می توانید داشبورد خود را با همکاران، کارمندان، خانواده و غیره خود به اشتراک بگذارید.",
+    "Automation": "اتوماسیون",
+    "Automation-desc-platform-page": "همه دستگاه‌های خود را متصل کنید و هر منطق یا شرایطی را که می‌خواهید برای راه‌اندازی اقدامات انجام دهید، اجرا کنید.",
+    "Explore": "کاوش کنید",
+    "Explore-desc-platform-page": "کاربری آسان، در پلتفرم مبتنی بر ابر ما، می‌توانید دستگاه‌هایی را که توسط افراد دیگر به اشتراک گذاشته شده‌اند پیدا کنید و از آنها استفاده کنید.",
+    "History": "تاریخ",
+    "History-desc-platform-page": "ساختار ابری ما به شما امکان می دهد به تاریخچه داده های دستگاه خود دسترسی داشته باشید و این داده ها را فیلتر کنید.",
+    "under-card-platform-page-title": "چگونه میتوان پول بدست آورد؟",
+    "under-card-platform-page-desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربرد",
+    "under-card-platform-page-title-sec": "از کمک متخصصان استفاده کنید؟",
+    "under-card-platform-page-desc-sec": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربرد",
+    "academy-platform-page-desc": "اگر به دنبال کسب اطلاعات بیشتر در مورد استفاده از پلتفرم و سایر آموزش های ما هستید، می توانید آکادمی ما را بررسی کنید.",
+    "developers-platform-page-desc'": "اگر به دنبال کسب اطلاعات بیشتر در مورد استفاده از پلتفرم و سایر آموزش های ما هستید، می توانید آکادمی ما را بررسی کنید.",
+    "Talk-to-an-expert": "دمو",
+    "Recomended-Courses": "یادین های مرتبط",
+    "Recomended-products": "محصولات پیشنهادی",
+    "forums-desc": "انجمن برای کاربران و شرکا",
+    "Start-Discussion": "شروع بحث",
+    "All-Questions": "همه سوالات",
+    "Answers": "پاسخ ها",
+    "Votes": "رای",
+    "Views": "بازدیدها",
+    "change-text-in-forums-for-search": "برای یافتن نتایج، پارامترهای جستجوی خود را تغییر دهید",
+    "Featured-Question": "سوال برجسته",
+    "Cancel": "لغو کنید",
+    "Post": "پست",
+    "forums-new-slug-login-desc": "برای ایجاد سوال باید وارد سیستم شوید",
+    "Start-a-Conversation": "یک مکالمه را شروع کنید",
+    "Add-answer": "یک پاسخ اضافه کنید",
+    "forums-question-slug-login-desc": "برای ایجاد سوال باید وارد سیستم شوید",
+    "Post-Reply": "ارسال پاسخ",
+    "confirm-answer-forums-question-section": "پاسخ شما با موفقیت ارسال شد پس از بررسی منتشر خواهد شد",
+    "Replies": "پاسخ می دهد",
+    "Documents": "اسناد",
+    "Search-document": "جستجوی سند",
+    "Documention-Menu": "منوی اسناد",
+    "Questions": "سوالات",
+    "Youtube": "یوتیوب",
+    "academy-developer-up-footer": "ما را بررسی کنید",
+    "youtube-developer-up-footer": "مشاهده آموزش های توسعه دهنده در",
+    "Trending-Documents": "اسناد پرطرفدار",
+    "Documentation": "مستندات",
+    "Shopping-Cart": "سبد خرید",
+    "orderDetails": "جزئیات سفارش",
+    "Shipping": "حمل دریایی",
+    "Checkout": "وارسی",
+    "Product": "محصول",
+    "Quantity": "تعداد",
+    "Price": "قیمت",
+    "Cart-empty": "سبد خالی است",
+    "Discount": "تخفیف",
+    "shop-desc-page": "قیمت نهایی ممکن است بسته به محل تحویل شما و زمان و وزن و اندازه محصولات متفاوت باشد",
+    "Continue-Shipping": "به حمل و نقل ادامه دهید",
+    "not-login": "شما وارد نشده اید",
+    "Shipping-Information": "اطلاعات حمل و نقل",
+    "send-to-address": "به این آدرس بفرستید",
+    "add-new-Address": "آدرس جدید اضافه کنید",
+    "Delivery-Address": "نشانی تحویل",
+    "address-require": "آدرس مورد نیاز است",
+    "change-or-delet-address": "تغییر یا ویرایش آدرس",
+    "Additional-Information": "اطلاعات تکمیلی",
+    "back-to-list": "بازگشت به لیست؟",
+    "New-Address": "آدرس جدید",
+    "Confirm": "تایید",
+    "submit-question-shop-page-shipping": "آیا مطمئن هستید که می خواهید سفارش را ارسال کنید؟",
+    "submit-answer-question": "در صورت تایید سفارش شما بدون پرداخت هزینه ارسال خواهد شد. پس از تایید این سفارش، با شما تماس می گیریم و سپس می توانید پرداخت را انجام داده و سفارش خود را نهایی کنید",
+    "accept-submit-order": "بله، سفارش من را ارسال کنید",
+    "order-summary": "خلاصه سفارش",
+    "Order-Payment": "سفارش پرداخت",
+    "Order": "سفارش",
+    "Order-Status": "وضعیت سفارش",
+    "Payment-Status": "وضعیت پرداخت",
+    "oder-desc-card-checkout-slug": "سفارش شما ارسال شده است اما هنوز تایید نشده است. تیم ما پس از تایید سفارش با شما تماس خواهد گرفت",
+    "oder-confirm-card-checkout-slug": "سفارش شما تایید شد می توانید مراحل پرداخت را انجام دهید و سفارش را نهایی کنید",
+    "go-top-payment-button": "برای پرداخت بروید",
+    "blogs-header-desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان ",
+    "ticketing-header-desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان ",
+    "partners-header-desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان ",
+    "equest_service-header-desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان ",
+    "privacy_and_policy-header-desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان ",
+    "terms_of_use-header-desc": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان ",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "foundNothing": "موردی یافت نشد",
+    "Category": "دسته‌بندی",
+    "Categories": "دسته‌بندی‌ها",
+    "refId": "کد پیگیری: {{id}}",
+    "shopping-thanks": "با تشکر از خرید شما",
+    "payment-sucessful": "پرداخت با موفقیت انجام شد",
+
+    "socailNumber": "کد ملی",
+    "address": "آدرس",
+    "phone": "شماره تماس",
+    "contactus": "تماس با ما",
+    "aboutus": "درباره ما",
+    "company": "شرکت",
+    "socialNumber": "کد ملی",
+    "insertSocialNumber": "کد ملی را وارد نمایید",
+    "insert-your-information": "اطلاعات خود را وارد نمایید",
+    "phone-desc": "میتوانید از طریق تماس و واتس اپ در ارتباط باشید",
+    "privacy-policy": "حریم خصوصی",
+    "terms": "شرایط استفاده",
+    "fast-access": "دسترس سریع",
+    "aboutus-title": "تماس بگیرید و به ما بگویید چگونه می توانیم کمک کنیم.",
+    "signup": "ثبت نام",
+    "login": "وارد شوید",
+    "copyright": "کلیه حقوق سایت متعلق به {{name}} می باشد",
+
+    "faq": "پرسش و پاسخ",
+    "portals": "پرتال ها",
+    "message": "متن پیام",
+    "Message": "متن پیام",
+    "profile": "پروفایل",
+    "currency": "{{price}} تومان",
+    "addAddress": "افزودن آدرس",
+    "postalCode": "کد پستی",
+    "insertPostalCode": "کد پستی را وارد کنید",
+    "insertAddress": "آدرس را وارد کنید",
+    "city": "شهر",
+    "select...": "انتخاب کنید",
+    "postalCodeInfo": "کد پستی: {{code}}",
+    "edit": "ویرایش",
+
+
+
+
+
+
+
+
+
+
+
+    "update": "به روز رسانی",
+    "details": "جزئیات",
+
+    "dashboard": "داشبورد",
+    "currentPassword": "کلمه عبور فعلی",
+    "newPassword": "کلمه عبور جدید",
+    "logout": "خروج از حساب",
+
+    "instagram": "اینستاگرام",
+    "facebook": "فیسبوک",
+    "linkedin": "لینکداین",
+    "aparat": "آپارات",
+    "youtube": "یوتیوب",
+    "follow-us": "دنبال کنید",
+
+    "phonenumber": "شماره تماس",
+    "activationCode": "کد فعال سازی",
+    "password": "کلمه عبور",
+    "name": "نام",
+    "family": "نام خانوادگی",
+    "email": "ایمیل",
+
+    "insertName": "نام را وارد نمایید",
+    "insertFamily": "نام خانوادگی را وارد نمایید",
+    "insertPasword": "کلمه عبور را وارد نمایید",
+    "insertPhone": "شماره تماس را وارد نمایید",
+    "insertEmail": "ایمیل را وارد نمایید",
+    "insertMessage": "متن پیام را وارد نمایید",
+    "Signin-Signup": "ورود - ثبت نام",
+    "send-password": "ارسال کلمه عبور",
+    "forgot-password": "فراموشی کلمه عبور",
+    "insertPassword": "کلمه عبور را وارد نمایید",
+    "information": "اطلاعات",
+    "insert-information": "اطلاعات را وارد نمایید",
+    "remove": "حذف",
+    "not-loggedin": "شما وارد سیستم نشده اید",
+    "to-continue": "برای ادامه",
+    "addressList": "لیست آدرس ها",
+    "add-address": "افزودن آدرس",
+    "no-address": "هیچ آدرسی ثبت نکرده اید",
+    "choose-address": "آدرس را انتخاب کنید یا",
+
+    "categories": "دسته‌بندی",
+    "map": "نقشه",
+
+    "province": "استان",
+
+    "description": "توضیحات",
+
+    "successful": "انجام شد",
+    "goToHome": "برو به صفحه خانه",
+    "goToOrders": "برو به صفحه سفارشات",
+
+    "finalize-shopping": "تکمیل فرایند خرید",
+    "isActivated": "با موفقیت فعال شد",
+
+    "send-code": "ارسال کد",
+    "back-one-stage": "یک مرحله قبل ؟",
+    "Code": "کد",
+    "insertCode": "ورود کد",
+    "insertTitle": "عنوان را وارد نمایید",
+
+    "activation-code": "کد فعال سازی",
+    "change-phone": "تغییر شماره ؟",
+    "if-not-recived-code": "اگر کد را دریافت نکردید",
+    "resend-code-in": "ارسال کد در {{seconds}} ثانیه",
+    "request-resend": "ارسال مجدد",
+    "submit": "ارسال",
+    "contact-sent": "درخواست شما ثبت شد. با تشکر از ارتباط شما",
+    "send-new-contact": "ارسال پیام جدید؟",
+    "resource-accept-terms": "با ارسال آثار شما قوانین و مقررات سایت را مطالعه کرده و پذیرفته اید",
+
+    "choose-image": "انتخاب تصویر",
+    "choose-file": "انتخاب فایل",
+    "choose-files": "انتخاب فایل‌ها",
+
+    "welcome-to": "خوش آمدید",
+    "learn-more": "بیشتر پیدا کنید",
+    "found-nothing": "موردی یافت نشد",
+
+    "next-step": "مرحله بعد",
+
+    "send": "ارسال",
+    "add-to-bag": "افزودن به سبد خرید",
+    "read-more": "ادامه مطلب ...",
+
+    "contact-us": "ارتباط با ما",
+    "contact-info": "اطلاعات تماس",
+
+
+
+    "insert-phone-desc": "شماره همراه خود را برای ورود یا ثبت نام وارد نمایید",
+    "cookie-warning": "این وبسایت از کوکی برای تجربه بهتر کاربری استفاده میکند. با ورود به سیستم شما این مورد را پذیرفته اید",
+
+    "login-title": "ورود به {{name}}",
+    "title": "عنوان",
+
+    "photos": "تصاویر",
+    "all": "همه",
+
+    "unavailable": "ناموجود",
+
+
+    "errors": {
+        "phoneLength": "شماره تماس به درستی وارد نشده است",
+        "codeLength": "کد فعال سازی به درستی وارد نشده است",
+        "emailPattern": "ایمیل به درستی وارد نشده است",
+        "codeNotValid": "کد فعال سازی صحیح نمی باشد",
+        "required-field": "این فیلد اجباریست",
+        "at-least-eight-characters": "  کلمه عبور حداقل باید 8 کارکتر باشد",
+        "code-not-found": "کد نامعتبر است",
+        "selectAddress": "آدرس را انتخاب نمایید",
+        "insertRequiredData": "اطلاعت مورد نیاز را وارد نمایید",
+        "selectOne": "یک گزینه را انتخاب کنید",
+        "emptyCart": "سبد خرید خالی است",
+        "selectColorMessage": "یک رنگ را انتخاب کنید",
+        "postalCode": "کد پستی به درستی وارد نشده است",
+        "socialNumber": "کد ملی به درستی وارد نشده است"
+
+    },
+
+    "messages": {
+        "welcome": "به {{name}} خوش آمدید",
+        "youAreLoggedin": "شما به موفقیت وارد شدید",
+        "passwordChanged": "کلمه عبور شما با موفقیت تغییر کرد",
+        "wouldRedirect": "در {{timer}} ثانیه دیگر وارد می شوید"
+    },
+
+
+
+    "useful": {
+        "backOneStep": "back one step ?",
+        "searchPlaceholder": "search ...",
+        "choosePlaceholder": "Choose ...",
+        "foundNothing": "Found Nothing",
+        "noData": "No data",
+        "addNew": "Add New",
+        "nextStep": "Next Step",
+        "insertInformation": "Insert Information",
+        "fillForm": "Fill the form. you need to insert all required fields",
+        "label": "label",
+        "information": "Information",
+        "type": "Type",
+        "price": "Price",
+        "available": "Available",
+        "code": "code",
+        "submit": "submit",
+        "preview": "preview",
+        "description": "description",
+        "edit": "edit",
+        "actions": "actions"
+    },
+
+    "placeholders": {
+        "insertType": "Insert Type",
+        "insertPartNumber": "Insert Part Number",
+        "insertUUID": "Insert UUID",
+        "insertInformation": "Insert Information",
+        "insertckey": "Insert crypto key",
+        "insertCategories": "Insert Categories",
+        "insertName": "Insert Name",
+        "search": "Search ...",
+        "insert": "insert ..."
+    },
+
+    "diagram": {
+        "numberOfInputs": "Number of inputs",
+        "outputs": "outputs",
+        "condition": "condition",
+        "conditions": "conditions",
+        "inputs": "inputs",
+        "label": "label",
+        "output": "output",
+
+        "outputValue": "Output Value"
+    },
+
+
+    "texts": {
+
+        "thing": {
+            "partNumber": "Part Number",
+            "uuid": "UUID",
+            "ckey1": "Crypto key 1",
+            "ckey2": "Crypto key 2",
+            "Categories": "Categories",
+            "name": "Name",
+            "battery": "battery",
+            "antenna": "antenna",
+            "characterestics": "characterestics",
+            "dataObject": "Data object",
+            "label:": "label",
+            "gateway": "gateway",
+            "cryptoKeys": "crypto keys",
+            "macAddress": "Mac address",
+            "wiki": "wiki",
+            "price-volume": "Price / Volume",
+            "compiler": "Compiler",
+            "id": "Id",
+            "gId": "Gateway Id",
+            "rss": "RSS",
+            "topic": "topic",
+            "actions": "actions",
+            "longitude": "Longitude",
+            "latitude": "Latitude"
+
+        },
+
+
+        "addThing": {
+            "warning": "Before adding devices make sure you undrestand our terms and your are aware of our billing system",
+            "first-desc": "You can add your devices to the platform and access them from all around the world",
+            "searchForThing": "Search for thing decription would be shown here",
+            "addCustomDevice": "Add Custom Device?",
+            "findThing": "Find Thing",
+            "chooseGateway": "Choose Gateway",
+            "chooseGatewayDesc": "chooseGatewayDesc",
+            "thingConnectionDesc": "Connect your thing to your gateway now, so the gateway sends us the thing info and we finalize your setup",
+            "gatewayConnectionDesc": "Send gateway connection signal, so we can finalize your setup"
+        },
+        "addWiki": {
+            "first-desc": "You can add things wiki to the platform so other people can use it later "
+        },
+        "addApplet": {
+            "first-desc": "You can add applet to make smart workflows for your things"
+        }
+    },
+
+
+
+    "yonnect": {
+        "addNew": {
+            "titles": {
+                "newApplet": "New Applet",
+                "newBusiness": "New Business",
+                "appletName": "Applet Name",
+                "appletImage": "Applet Image"
+            }
+        }
+    }
+
+
+
+
+
+}

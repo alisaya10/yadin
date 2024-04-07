@@ -1,0 +1,193 @@
+.usecase-hero {
+    /* background-image: url("/images/agriculture.jpg") ; */
+    width: 100%;
+    min-height: 100vh;
+}
+
+.usecase-hero .usecase-hero-header {
+    color: rgb(255, 255, 255);
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 50px;
+}
+
+.usecase-hero .usecase-hero-desc {
+    color: rgba(255, 255, 255, 1);
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+.usecase-hero .usecase-hero-button {
+    padding: 10px 30px;
+    border: 0px;
+    border-radius: 8px;
+    font-size: 14px;
+    background-color: rgba(255, 255, 255, 1);
+    transition: all 0.5s;
+    font-weight: 500;
+}
+
+.usecase-hero .usecase-hero-button:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+.usecase-hero .usecase-hero-box1 {
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 15px;
+    padding: 10px 25px;
+    backdrop-filter: blur(20px) saturate(180%);
+}
+
+.usecase-hero .usecase-hero-box1-header {
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 21px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.usecase-hero .box1-count1 {
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    padding: 5px 0px;
+}
+
+.usecase-hero .box1-count1-desc1 {
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.usecase-hero .box1-count1-desc2 {
+    font-size: 14px;
+    /* font-weight: 800; */
+    color: rgba(0, 0, 0, 0.5);
+    text-transform: uppercase;
+}
+
+.usecase-hero .box1-desc1 {
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.5);
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 0px 5px;
+}
+
+
+/* .tags{ */
+
+
+/* background-color: rgba(255, 255, 255,1);
+              height: 100px;  */
+
+
+/* } */
+
+
+/* } */
+
+.tags-desc {
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 3px 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    /* font-weight: 500; */
+}
+
+.usecase-box2-p1 {
+    color: rgba(0, 0, 0, 1);
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+.usecase-box2-p2 {
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.7);
+    font-weight: 500;
+    margin: 7px 0px !important;
+}
+
+.usecase-box3-img {
+    height: 150px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.usecase-box3-p2 {
+    font-size: 18px;
+    /* color: rgb(60, 68, 80); */
+    color: #000510;
+    font-weight: 600;
+    /* text-transform: uppercase; */
+    transition: all 0.2s;
+}
+
+.usecase-box3-p3 {
+    color: rgba(60, 68, 80, 1);
+    font-size: 12px;
+    margin-top: 5px !important;
+    margin-bottom: 3px !important;
+    text-align: center;
+}
+
+.usecase-box3-button {
+    background-color: rgb(255, 255, 255);
+    /* border: 1px solid rgb(118,117,213);
+color:rgb(118,117,213) ; */
+    /* border: 1px solid rgba(65,20,120,1); */
+    /* color: rgba(65,20,120,1); */
+    border: 1px solid rgba(64, 117, 190, 1);
+    color: rgba(64, 117, 190, 1);
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 13px;
+    margin-top: 12px !important;
+    padding: 7px 30px;
+    transition: all 0.5s;
+}
+
+.usecase-box3-button:hover {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(64, 117, 190, 1);
+}
+
+.usecase-box3 {
+    width: 100%;
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.03);
+    padding: 30px 30px;
+    border-radius: 15px;
+    transition: all 0.2s;
+    outline: none;
+}
+
+.slider-header {
+    color: rgba(0, 0, 0, 1);
+    font-size: 22px;
+    /* font-weight: 600; */
+    align-items: center;
+}
+
+.access-header {
+    color: rgba(0, 0, 0, 1);
+    font-size: 35px;
+    font-weight: 700;
+    align-items: center;
+}
+
+.access-buttons {
+    border: 0px;
+    padding: 10px 30px;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: rgba(0, 0, 0, 1);
+    color: rgba(255, 255, 255, 1);
+    border-radius: 8px;
+    white-space: nowrap;
+}

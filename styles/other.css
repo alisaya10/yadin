@@ -1,0 +1,140 @@
+.from-to-input-container {
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 2px 4px;
+  font-size: 13px;
+}
+
+.from-to-input-container input {
+  font-size: 13px;
+}
+
+.from-to-but {
+  background: #e2e6e8;
+  border-radius: 4px;
+  padding: 3px 8px;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.from-to-but:hover {
+  background-color: #234;
+}
+
+.from-to-but:hover img {
+  -webkit-filter: invert(100%);
+          filter: invert(100%);
+}
+
+.checkbox-container {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.checkbox-container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.checkmark {
+  position: relative;
+  height: 16px;
+  width: 16px;
+  border-radius: 4px;
+  background-color: #007aff10;
+  border: 1px solid #007aff30;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.checkbox-container:hover input ~ .checkmark {
+  background-color: #2196f350;
+  border: 1px solid #2196f350;
+}
+
+.checkbox-container input:checked ~ .checkmark {
+  background-color: #2196f3;
+  border: 1px solid #2196f3;
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.checkbox-container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+.checkbox-container .checkmark:after {
+  left: 34%;
+  top: 16%;
+  width: 30%;
+  height: 60%;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.radioMark {
+  position: relative;
+  height: 17px;
+  width: 17px;
+  border-radius: 20px;
+  background-color: #fff;
+  border: 1px solid #eee;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.checkbox-container:hover input ~ .radioMark {
+  background-color: #2196f350;
+  border: 1px solid #2196f350;
+}
+
+.checkbox-container input:checked ~ .radioMark {
+  background-color: #2196f3;
+  border: 1px solid #2196f3;
+}
+
+.radioMark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.checkbox-container input:checked ~ .radioMark:after {
+  display: block;
+}
+
+.checkbox-container .radioMark:after {
+  left: 25%;
+  top: 25%;
+  width: 48%;
+  height: 48%;
+  border: solid #ffffff20;
+  background-color: #ffffffee;
+  border-radius: 20px;
+  border-width: 2px;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-box-shadow: 0px 0px 1px #00000010 inset;
+          box-shadow: 0px 0px 1px #00000010 inset;
+}
+/*# sourceMappingURL=other.css.map */
